@@ -31,16 +31,17 @@ For example, if you are in your final year you do not need us to explain that yo
 
 In doing so, we make the revision process more efficient as you can focus on the area that has the perfect amount of information to prompt you, without having to revise information you already know. To further increase the efficiency of your learning we present each section with a “need to know” score, to help you prioritise the order of your learning.
 
-We will start with an overiew of history taking in general, this is followed by detailed histories for each system and specialty, and finally we will present mark schemes for you to use. For each symptom we will explode the additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main symptoms you will come across.
+We will start with an overiew of history taking in general and this is followed by detailed histories for each system and specialty. For each cardinal symptom we will provided a cascade of additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main presenting symptoms you will come across. Finally, we present a series of mock cases and mark schemes for you to practice with your colleagues.
 
 ## Ojectives
 
 Our objectives for this section are, to provide you with a:
 - Comprehensive overview of history taking in general.
 - Detailed explanations of histories for each system.
+- A cascade of additional questions for each cardinal symptom.
+- Differentials for the main presenting symptoms.
+- Mock cases for you to practice.
 - Mark schemes for each system history.
-- Cardinal symptom question explosion.
-- Differentials
 
 # History Overview
 
@@ -141,7 +142,11 @@ Summarising and signposting here demonstrates to the examiner that you are switc
 - Presentation specific
   - Presentation specific systems enquiry, this will be covered in the exploded symptoms section for each symptom
 
-Instead of asking a systems enquiry which encompasses all organ systems, you should focus on asking questions which rule in or out differential diagnoses. For example if a patient presents with chest pain, as well as focusing on the cardiovascular system you may also want to include some respiratory and gastrointestinal cardinal symptoms to rule out conditions such as pneumonia, pulmonary embolism, or gastroesophageal reflux disease.
+### Why have a focused systems enquiry?
+
+Instead of asking a systems enquiry which encompasses all organ systems, you should focus on asking questions which rule in or out differential diagnoses. This is so that you do not waste time asking irrelevant questions.
+
+For example if a patient presents with chest pain, as well as focusing on the cardiovascular system you may also want to include some respiratory and gastrointestinal cardinal symptoms to rule out conditions such as pneumonia, pulmonary embolism, or gastroesophageal reflux disease.
 
 You can use the mnemonic MUNCHEBARS to help remember each of the organ systems, if you are stuck. But you need to be wary when conducting your systems enquiry as you can waste time by asking too many irrelevant questions here.
 
@@ -158,29 +163,54 @@ You can use the mnemonic MUNCHEBARS to help remember each of the organ systems, 
 
 ## Past medical history
 
-**Open question** – do you have any other medical conditions?
+**Open question** – Do you have any other medical conditions?
 
-**Relevant to presenting complaint** – you may also want to ask specific questions relevant to the presenting complaint or system. 
+**Relevant to presenting complaint** – You may also want to ask specific questions relevant to the presenting complaint or system. 
 - Specific operations
 - Specific diseases
 
-Past medical history closed questions
+### Past medical history closed questions
+
 Be wary about asking too many closed questions here, as many of the questions will be irrelevant and will waste time. Instead you may want to ask specific questions relevant to the presenting complaint or system. For example, if a patient presents with lethargy you may want to ask if they have a history of any thyroid problems or anaemia.
-Similarly, we do not recommend mnemonics here as they are often too broad and can waste valuable time, but if you do wish to use a mnemonic use: MJ THREADS Ca – Myocardial infarction, Jaundice, Thyroid, Hypertension, Rheumatic fever/any childhood illness, Epilepsy, Angina, Diabetes, Stroke, Cancer.
-Allergies
-Drug allergies – make sure to ask about allergies, some people fail because they forget to ask.
-Type of allergy – what happened? Is it a true allergy (i.e. anaphylaxis or rash)?
-Drug history
+
+Similarly, we do not recommend mnemonics here as they are often too broad and can waste valuable time, but if you do wish to use a mnemonic use **MJ THREADS Ca**
+
+- **M**yocardial infarction
+- **J**aundice
+- **T**hyroid
+- **H**ypertension
+- **R**heumatic fever/any childhood illness
+- **E**pilepsy
+- **A**ngina
+- **D**iabetes
+- **S**troke
+- **Ca**ncer.
+
+## Allergies
+
+**Drug allergies** – Make sure to ask about allergies, some people fail because they forget to ask. If there is an allergy probe.
+- Type of allergy – What happened? Is it a true allergy (i.e. anaphylaxis or rash)?
+
+## Drug history
+
 Patient’s are often on very long lists of medications, so be wary of this section as it can waste valuable time. You may prefer to leave it until the end, particularly if you are not given a list of medications on the vignette.
-Drugs list
-Changes to drugs – new or stopped
-Over the counter – homeopathic/herbal
-Recreational drugs – this is a question we ask everyone, do you take any recreational drugs?
-Specific drugs – you do not need to ask this for everyone, only if relevant to the presenting complaint. Examples include: anticoagulants, chemotherapy, hormone replacement therapy, antibiotics.
-Family history
-Do any illnesses run in the family? OR Has anyone else had any similar problems?
+
+**Drugs list**
+**Changes to drugs** – New or stopped
+**Over the counter** – Homeopathic/herbal
+**Recreational drugs** – Make sure to normalise, this is a question we ask everyone, do you take any recreational drugs?
+**Specific drugs** – You do not need to ask this for everyone, only if relevant to the presenting complaint. Examples include: anticoagulants, chemotherapy, hormone replacement therapy, antibiotics.
+
+## Family history
+
+You can chose to ask a specific question and/or a general question.
+
+- Specific family history - Has anyone else in your family had a similar problem?
+- General family history - Do any illnesses run in the family?
+
 For most situations you only need to be concerned about diseases in 1st degree relatives.
-Social history
+
+## Social history
 Occupation history – Do you have a job? OR Have you had a job in the past?
 Smoking history – Have you ever smoked? Do you still smoke? How many a day? How many years?
 It’s best to ask have you ever smoked? Rather than “Do you smoke” because then you establish immediately if they are a non-smoker and do not have to ask a second question.
