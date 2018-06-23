@@ -12,15 +12,15 @@ tags:
 layout:
 ---
 
-#Focus and Scope#
+#Focus and Scope
 
 In this section we present the **Aim, Philosophy, and Objectives** of **focus**medicine.
 
-##Aims##
+##Aims
 
 The aim of **focus**medicine is to create a *concise* set of revision materials which are targeted at *high yield* areas. In doing so we have optimized the revision process so that it is as *painless* and *efficient* as possible.
 
-##Philosophy##
+##Philosophy
 
 Our philosophy is that you don’t need to be the best to **become the best**.
 
@@ -30,7 +30,7 @@ This may sound obvious, but a lot of individuals approach exams with the concept
 
 This what I found during my first clinical exams where I spent too long trying to make a comprehensive set of notes thinking if I learnt everything I would do well in exams, but I was disappointed. Why? Because my approach was not *focused* and I was overwhelmed. In my final exams, I changed my learning style to focus on *core knowledge* and *techniques*, and because of this I achieved a top 10% result in finals.
 
-##Objectives##
+##Objectives
 
 Our objectives are to:
 
