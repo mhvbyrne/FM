@@ -14,8 +14,6 @@ layout:
 
 # Focus and Scope
 
-In this section we present the **Aim, Philosophy, and Objectives** of **focus**|medicine.
-
 ## Aims
 
 The aim of **focus**medicine is to create a *concise* set of revision materials which are targeted at *high yield* areas. In doing so we have optimized the revision process so that it is as *painless* and *efficient* as possible.
