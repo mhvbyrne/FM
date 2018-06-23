@@ -10,6 +10,7 @@ main_photo:
 photos: 
 tags:
 layout:
+---
 
 #Focus and Scope
 
@@ -44,4 +45,3 @@ Our objectives are to:
 - To improve *fluency*
 
 - Develop your learning to help you **become the best**
----
