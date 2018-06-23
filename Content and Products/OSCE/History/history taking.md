@@ -17,7 +17,7 @@ layout:
 
 ## Introduction
 
-Getting the best marks when taking histories is not about asking *all* of the questions, it is about asking a *concise* and *fluent* history that highlights important information and does not miss key sections.
+Getting the best marks when taking histories is not about asking *all* of the questions, it is about asking a **concise** and **fluent** history that highlights important information and does not miss key sections.
 
 We aim to help you get the best mark you can as painlessly as possible by presenting our concise histories. These include all the questions you *must* ask and explain the main areas that individuals make mistakes.
 
@@ -25,7 +25,11 @@ This will allow you to revise quickly, improve your fluency, and get the best ma
 
 We will present our reasoning for asking the questions we do and why we ask things in certain ways. However, if you find something that works better for you, use it! And please let us know so that we can share it with everyone else.
 
-To streamline your learning we will present a series of descriptions for each history with progressively less information in each, so that you will have less prompts as you progress through you revision. For example, if you are a final year student you do not need us to explain the calgary cambridge model of open to closed questioning, but if you never have taken a history before you need to know about it! In doing so, we make the revision process more efficient as you can focus on the history that has the perfect amount of information to prompt you, without having to revise information you already know. To further increase the efficiency of your learning we present each section with a “need to know” score, to help you prioritise the order of your learning.
+To streamline your learning we will present a series of descriptions for each history with progressively less information in each, so that you will have less prompts as you progress through you revision.
+
+For example, if you are in your final year you do not need us to explain that you should start with open questions and move to closed questioning, you would be better glancing over our system histories and focusing on our mark schemes, but if you never have taken a history before you need to learn about open and closed questions!
+
+In doing so, we make the revision process more efficient as you can focus on the area that has the perfect amount of information to prompt you, without having to revise information you already know. To further increase the efficiency of your learning we present each section with a “need to know” score, to help you prioritise the order of your learning.
 
 We will start with an overiew of history taking in general, this is followed by detailed histories for each system and specialty, and finally we will present mark schemes for you to use. For each symptom we will explode the additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main symptoms you will come across.
 
@@ -38,21 +42,33 @@ Our objectives for this section are, to provide you with a:
 - Cardinal symptom question explosion.
 - Differentials
 
-# General History Taking
+# History Overview
 
 A history consist of an introduction, presenting complaint (PC), history of presenting complaint (HPC), ideas, concerns and expectations (ICE), summarising, signposting, cardinal symptoms, risk factors and red flags (when appropriate), systemic enquiry, past medical history (PMH) and past surgical history (when appropriate), allergies, drug history (DH), family history (FH), and social history (SH).
 You should be well presented and dressed in smart clothing.
-Introduction
-Introduce yourself – Hi I’m [name], I’m a final year medical student
-Name, age, date of birth – Can I check your name, age, and date of birth please?
-Explain & consent – I’d like to ask you some questions about your symptoms, is that okay?
-Questions – Do you have any questions before we start?
-Presenting complaint
-Open question – I understand that you have had some [presenting symptom on vignette] can you tell me all about that? OR How can I help you today?
+
+## Introduction
+
+**Introduce yourself** – Hi I’m [name], I’m a final year medical student
+
+**Patient name, age, date of birth** – Can I check your name, age, and date of birth please?
+
+**Explain & consent** – I’d like to ask you some questions about your symptoms, is that okay?
+
+**Questions** – Do you have any questions before we start?
+
+## Presenting complaint
+
+**Open question** – I understand that you have had some [presenting symptom on vignette] can you tell me all about that? OR How can I help you today?
+
 Let the patient talk – it is important not to interrupt the patient at the start, unless they are going off topic.
-Why start with open questions?
-Open questions are questions that cannot be answered with a yes or no, they allow the patient to describe their symptoms in their own words. It allows you to develop a broad understanding of the problem, before moving to closed questions, which can be answered with a yes or no. Because the questions are open ended there is a risk that the patient can talk too much, which can waste time, we will touch on how to avoid this in our tips section.
-History of presenting complaint
+
+### Why start with open questions?
+
+**Open questions** are questions that cannot be answered with a *yes* or *no*, they allow the patient to describe their symptoms in their own words. It allows you to develop a broad understanding of the problem, before moving to **closed questions**, which are questions that can be answered with a *yes* or *no*. Because open questions are open-ended there is a risk that the patient can talk too much, which can waste time, and we will touch on how to avoid this in our tips section.
+
+## History of presenting complaint
+
 SOCRATES
 SOCRATES is a mnemonic that was designed to ask about pain, however, you can use it as a structure for most presenting complaints by omitting non relevant sections. Taking this approach means you do not need to remember a separate series of questions to enquire about the history of presenting complaint for each history.
 Site – Where is the [presenting symptom]?
