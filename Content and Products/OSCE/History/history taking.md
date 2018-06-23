@@ -60,7 +60,7 @@ For your exam you should be well presented and dressed in smart clothing. You sh
 
 ## Presenting complaint
 
-**Open question** – I understand that you have had some [presenting symptom on vignette] can you tell me all about that? OR How can I help you today?
+**Open question** – I understand that you have had some [presenting symptom on vignette] can you tell me all about that?
 
 Let the patient talk – it is important not to interrupt the patient at the start, unless they are going off topic.
 
@@ -116,44 +116,54 @@ Students often worry that asking ideas, concerns, and expectations can sound awk
 
 ### Why summarise and signpost?
 
-Summarising allows you to check with the patient that the history you have taken is correct, it allows them to interject if they feel you have missed something. Signposting is when you explain what you are going to ask the patient about next and it helps give the history structure.
-Mark schemes have marks for both summarising and signposting, and you only need to do it once to get marks in this section, if you summarise more than once and you will waste time.
-Why summarise and signpost here?
-Summarising and signposting here demonstrates to the examiner that you are switching from open questions to closed questions.
-Cardinal symptoms, risk factors, red flags, systems enquiry
+**Summarising** allows you to check with the patient that the history you have taken is correct, it allows them to interject if they feel you have missed something.
 
-Cardinal symptoms – are the main symptoms for each system. They need to be asked for each history.
-Risk factors – are characteristics which increase the probability of disease. It is not necessary to include risk factors for certain system histories.
-Red flags – are symptoms which indicate there may be serious underlying pathology. It is not necessary to include red flags for certain system histories.
-Systems enquiry – ask about symptoms separate to the main organ system which the history focuses on. For example, asking about weight loss in lung cancer. You can ask general constitutional symptoms and presentation specific symptoms.
-General
-Fever
-Weight loss
-Night sweats
-Presentation specific
-Presentation specific systems enquiry
+**Signposting** is when you explain what you are going to ask the patient about next and it helps give the history structure.
+
+Mark schemes have marks for both summarising and signposting, and you only need to do it once to get marks in this section, so if you summarise more than once you will waste time.
+
+### Why summarise and signpost here?
+
+Summarising and signposting here demonstrates to the examiner that you are switching from open questions to closed questions.
+
+## Cardinal symptoms, risk factors, red flags, and systems enquiry
+
+**Cardinal symptoms** – are the main symptoms for each system. They need to be asked for each history.
+
+**Risk factors** – are characteristics which increase the probability of disease. It is not necessary to include risk factors for certain system histories.
+
+**Red flags** – are symptoms which indicate there may be serious underlying pathology. It is not necessary to include red flags for certain system histories.
+
+**Systems enquiry** – ask about symptoms separate to the main organ system which the history focuses on. For example, asking about weight loss in lung cancer. You can ask general constitutional symptoms and presentation specific symptoms.
+- General
+  - Fever
+  - Weight loss
+- Presentation specific
+  - Presentation specific systems enquiry, this will be covered in the exploded symptoms section for each symptom
+
 Instead of asking a systems enquiry which encompasses all organ systems, you should focus on asking questions which rule in or out differential diagnoses. For example if a patient presents with chest pain, as well as focusing on the cardiovascular system you may also want to include some respiratory and gastrointestinal cardinal symptoms to rule out conditions such as pneumonia, pulmonary embolism, or gastroesophageal reflux disease.
+
 You can use the mnemonic MUNCHEBARS to help remember each of the organ systems, if you are stuck. But you need to be wary when conducting your systems enquiry as you can waste time by asking too many irrelevant questions here.
-Musculoskeletal
-Urinary
-Neurological
-Cardiovascular
-Hepatic
-Endocrine
-Blood
-Alimentary
-Respiratory
-Skin
-Past medical history
-Open question – do you have any other medical conditions?
-Relevant to presenting complaint – you may also want to ask specific questions relevant to the presenting complaint or system. 
-Specific operations
-Specific diseases
-Detailed chronic condition history– you do not need to ask this for every patient, but if it is relevant to your presenting complaint you may want to ask a more detailed past medical history about the relevant condition. For example, if a patient is presenting symptoms of a flare up of their crohn’s disease, you might want to ask more questions about their crohn’s disease.
-Diagnosis – when and how was it diagnosed.
-Management – current and previous management.
-Control – how well controlled is the disease, how many admissions per year.
-Complications – any complications of the disease?
+
+- **M**usculoskeletal
+- **U**rinary
+- **N**eurological
+- **C**ardiovascular
+- **H**epatic
+- **E**ndocrine
+- **B**lood
+- **A**limentary
+- **R**espiratory
+- **S**kin
+
+## Past medical history
+
+**Open question** – do you have any other medical conditions?
+
+**Relevant to presenting complaint** – you may also want to ask specific questions relevant to the presenting complaint or system. 
+- Specific operations
+- Specific diseases
+
 Past medical history closed questions
 Be wary about asking too many closed questions here, as many of the questions will be irrelevant and will waste time. Instead you may want to ask specific questions relevant to the presenting complaint or system. For example, if a patient presents with lethargy you may want to ask if they have a history of any thyroid problems or anaemia.
 Similarly, we do not recommend mnemonics here as they are often too broad and can waste valuable time, but if you do wish to use a mnemonic use: MJ THREADS Ca – Myocardial infarction, Jaundice, Thyroid, Hypertension, Rheumatic fever/any childhood illness, Epilepsy, Angina, Diabetes, Stroke, Cancer.
