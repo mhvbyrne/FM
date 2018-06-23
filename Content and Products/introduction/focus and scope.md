@@ -3,12 +3,13 @@ Authors: “Matthew Byrne”
 Reviewers:
 Senior reviewers:
 Date: 2018-06-22
-Quotation:
+Quotations:
 video_youtube:
 thumbnail:
 main_photo:
 photos: 
 tags:
+Sources:
 layout:
 ---
 
