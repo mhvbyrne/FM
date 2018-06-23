@@ -13,7 +13,7 @@ Sources: Mcleod's
 layout:
 ---
 
-# History Taking
+# History taking
 
 ## Introduction
 
@@ -43,7 +43,7 @@ Our objectives for this section are, to provide you with a:
 - Mock cases for you to practice.
 - Mark schemes for each system history.
 
-# History Overview
+# History overview
 
 A history consist of an introduction, presenting complaint (PC), history of presenting complaint (HPC), ideas, concerns and expectations (ICE), summarising, signposting, cardinal symptoms, risk factors and red flags (when appropriate), systemic enquiry, past medical history (PMH) and past surgical history (when appropriate), allergies, drug history (DH), family history (FH), and social history (SH).
 
