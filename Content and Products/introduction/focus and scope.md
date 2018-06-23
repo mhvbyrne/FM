@@ -10,11 +10,10 @@ main_photo:
 photos: 
 tags:
 layout:
----
 
 #Focus and Scope
 
-In this section we present the **Aim, Philosophy, and Objectives** of **focus**medicine.
+In this section we present the **Aim, Philosophy, and Objectives** of **focus**|medicine.
 
 ##Aims
 
@@ -45,3 +44,4 @@ Our objectives are to:
 - To improve *fluency*
 
 - Develop your learning to help you **become the best**
+---
