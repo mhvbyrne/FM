@@ -211,35 +211,43 @@ You can chose to ask a specific question and/or a general question.
 For most situations you only need to be concerned about diseases in 1st degree relatives.
 
 ## Social history
-Occupation history – Do you have a job? OR Have you had a job in the past?
-Smoking history – Have you ever smoked? Do you still smoke? How many a day? How many years?
+
+**Occupation history** – Do you have a job? *OR* Have you had a job in the past?
+
+**Smoking history** – Have you ever smoked? Do you still smoke? How many a day? How many years?
+
 It’s best to ask have you ever smoked? Rather than “Do you smoke” because then you establish immediately if they are a non-smoker and do not have to ask a second question.
+
 20 cigarettes per day for one year = 1 pack year
-Alcohol history – Do you drink alcohol? How many units do you drink per week?
-Home – is there anyone else at home?
-Activities of daily living – do you have any problems with washing, dressing, or cooking yourself for yourself?
-Closing
+
+**Alcohol history** – Do you drink alcohol? How many units do you drink per week?
+
+**Home** – Is there anyone else at home? You do not need to ask this question to everyone, often it is only important if the person is a child, elderly, or has a disease which may limit their day to day activities.
+
+**Activities of daily living** – Do you have any problems with washing? Dressing? Or cooking yourself? If there are any problems identified you can also ask if the patient has any carers. You do not need to ask this question to everyone, often it is only important if the person is a child, elderly, or has a disease which may limit their day to day activities.
+
+## Closing
+
 Is there anything else you think I ought to know?
+
 Thank you, do you have any questions?
-Summary
-Summary – This is a [age] year old [race] [sex] [job] who presented with worsening/improving [presenting symptom] for [duration], associated with [cardinal symptoms], on a background of [relevant past medical history, family history, social history, drug history].
-Differential
-Most likely diagnosis – My top differential is…
-Differential – My other differentials are…
-Less likely important conditions not to miss – I would also like to rule out...
+
+## Summary
+
+**Summary** – This is a [age] year old [race] [sex] [job] who presented with worsening/improving [presenting symptom] for [duration], associated with [cardinal symptoms], on a background of [relevant past medical history, family history, social history, drug history].
+
+### How to have a fluent summary
+
+Summarising is a difficult skill. When inexperienced students are asked to summarise they recite their entire history from start to finish, failing to realise that the examiner has sat through your history and has heard it all. Instead the examiner wants a very concise overview of your history. A summary of a history and examination should be no longer than a minute, and the summary should be weighted more towards your examination findings because the examiner cannot see, feel, or hear what you do so you *need* to convey this information. As such, the summary should be limited to one or two sentences in the style of the above example.
+
+To help with your fluency, you can write out the above sentence before you take your history and leave blank sections for you to fill in while you are taking your history. That what when you are asked to summarise you already have a summary written down.
+
+## Differential
+
+**Most likely diagnosis** – My top differential is…
+
+**Differential** – My other differentials are…
+
+**Less likely important conditions not to miss** – I would also like to rule out...
+
 For example, this is a 47 year old asian female factory worker who presented with a one week history of worsening cough, associated with green phlegm, shortness of breath, and fever; on a background of chronic obstructive pulmonary disease and a 20 pack year history of smoking. My top differential is an infective exacerbation of COPD, my other differentials are a community acquired pneumonia and tuberculosis. I would also like to rule out pneumoconiosis and lung cancer.
-Tips
-Open question – I understand that you have had some [presenting symptom on vignette] 
-Empathy
-Cues – verbal, body language.
-Rapport
-Over talkative patients
-Timing
-Practice
-Too much detail
-Order
-Echo - “I’ve got chest pain” “chest pain?...”
-Active listening
-Normalising – this is a question we ask everyone… some people with these symptoms experience… have you experienced this?
-Don’t ask multiple questions in one go.
-Pauses can be good, they can give the patient time to talk.
