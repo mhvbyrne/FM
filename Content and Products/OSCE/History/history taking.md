@@ -45,7 +45,8 @@ Our objectives for this section are, to provide you with a:
 # History Overview
 
 A history consist of an introduction, presenting complaint (PC), history of presenting complaint (HPC), ideas, concerns and expectations (ICE), summarising, signposting, cardinal symptoms, risk factors and red flags (when appropriate), systemic enquiry, past medical history (PMH) and past surgical history (when appropriate), allergies, drug history (DH), family history (FH), and social history (SH).
-You should be well presented and dressed in smart clothing.
+
+For your exam you should be well presented and dressed in smart clothing. You should bring a watch with a stop watch function so that you can keep track of time.
 
 ## Introduction
 
@@ -69,37 +70,52 @@ Let the patient talk – it is important not to interrupt the patient at the sta
 
 ## History of presenting complaint
 
-SOCRATES
-SOCRATES is a mnemonic that was designed to ask about pain, however, you can use it as a structure for most presenting complaints by omitting non relevant sections. Taking this approach means you do not need to remember a separate series of questions to enquire about the history of presenting complaint for each history.
-Site – Where is the [presenting symptom]?
-Onset
-When did the symptoms start?
-Sudden or gradual?
-What were you doing when it started? – precipitating factors
-Character – how would you describe the [symptom]?
-Radiation – does the [symptom] go anywhere else?
-Associated symptoms – did you have any other symptoms with the [presenting symptom]
-Timings
-Frequency – ever had this before? How many times?
-Constant or intermittent?
-Progression – is the [symptom] getting better or worse?
-Pattern – is it better of worse at any time of day? Year? Night time?
-Duration – how long does it last? 
-Termination – what caused the symptoms to stop?
-Exacerbating/relieving symptoms – does anything make the [symptom] better or worse?
-Severity – How bad are the symptoms? What impact has this had on your life?
-Ideas, concerns, and expectations
-Ideas – Is there anything you think could be causing your symptoms?
-Concerns – Is there anything you’re worried about? – if there is, probe. I can understand why that might be worrying, is there anything in particular about it that you are worried about?
-Expectations – Is there anything else that you hope I will be able to help you with today?
-Why ask ideas, concerns, and expectations?
-Mark schemes often have specific marks for asking about a patient’s ideas, concerns, and expectations. They are also a good insight into areas which you may have accidentally overlooked. For example, patients may mention they are worried about cancer, because one of their relatives had it, or that their symptoms are a side effect of a drug which they are taking (which might not be listed in their usual drugs list).
-Why ask ideas, concerns, and expectations here?
-Students often worry that asking ideas, concerns, and expectations can sound awkward and unnatural. We have including these questions after the history of presenting complaint and with the phrasing above is the most natural way to ask. Asking these questions here also means it can inform the rest of the questions you ask, whereas, leaving them until the end of the history often seems awkward and you might forget to ask it completely. 
-Summarise and signpost
-Summarise – Okay I just want to check that I have got everything correct. Your [presenting symptom] started…
-Signpost – I’m now going to ask you some further questions about some symptoms you may have had.
-Why summarise and signpost?
+**SOCRATES** is a mnemonic that was designed to ask about **pain**, however, you can use it as a structure for most presenting complaints by omitting non relevant sections. Taking this approach means you do not need to remember a separate series of questions to enquire about the history of presenting complaint for each history.
+
+- **S**ite – Where is the [presenting symptom]?
+- **O**nset
+  - When did the symptoms start?
+  - Sudden or gradual?
+  - What were you doing when it started? – any precipitating factors?
+- **C**haracter – how would you describe the [symptom]?
+- **R**adiation – does the [symptom] go anywhere else?
+- **A**ssociated symptoms – did you have any other symptoms with the [presenting symptom]
+- **T**imings
+  - Frequency – ever had this before? How many times?
+  - Constant or intermittent?
+  - Progression – is the [symptom] getting better or worse?
+  - Pattern – is it better of worse at any time of day? Year? Night time?
+  - Duration – how long does it last? 
+  - Termination – what caused the symptoms to stop?
+- **E**xacerbating/relieving symptoms – does anything make the [symptom] better or worse?
+- **S**everity – How bad are the symptoms? What impact has this had on your life?
+
+## Ideas, concerns, and expectations
+
+**Ideas** – Is there anything you think could be causing your symptoms?
+
+**Concerns** – Is there anything you’re worried about? – if there is, probe. I can understand why that might be worrying, is there anything in particular about it that you are worried about?
+
+**Expectations** – Is there anything else that you hope I will be able to help you with today?
+
+### Why ask ideas, concerns, and expectations?
+
+Mark schemes often have specific marks for asking about a patient’s ideas, concerns, and expectations. They are also a good insight into areas which you may have accidentally overlooked.
+
+For example, patients may mention they are worried about cancer, because one of their relatives had it, or that their symptoms are a side effect of a drug which they are taking (which might not be listed in their usual drugs list).
+
+### Why ask ideas, concerns, and expectations here?
+
+Students often worry that asking ideas, concerns, and expectations can sound awkward and unnatural. We have including these questions after the history of presenting complaint and with the phrasing above is the most natural way to ask. Asking these questions here also means it can inform the rest of the questions you ask, whereas, leaving them until the end of the history often seems awkward and you might forget to ask it completely.
+
+## Summarise and signpost
+
+**Summarise** – Okay I just want to check that I have got everything correct. Your [presenting symptom] started…
+
+**Signpost** – I’m now going to ask you some further questions about some symptoms you may have had.
+
+### Why summarise and signpost?
+
 Summarising allows you to check with the patient that the history you have taken is correct, it allows them to interject if they feel you have missed something. Signposting is when you explain what you are going to ask the patient about next and it helps give the history structure.
 Mark schemes have marks for both summarising and signposting, and you only need to do it once to get marks in this section, if you summarise more than once and you will waste time.
 Why summarise and signpost here?
