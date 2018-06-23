@@ -242,7 +242,9 @@ Thank you, do you have any questions?
 
 ### How to have a fluent summary
 
-Summarising is a difficult skill. When inexperienced students are asked to summarise they recite their entire history from start to finish, failing to realise that the examiner has sat through your history and has heard it all. Instead the examiner wants a very concise overview of your history. A summary of a history and examination should be no longer than a minute, and the summary should be weighted more towards your examination findings because the examiner cannot see, feel, or hear what you do so you *need* to convey this information. As such, the summary should be limited to one or two sentences in the style of the above example.
+Summarising is a difficult skill. When inexperienced students are asked to summarise they recite their entire history from start to finish, failing to realise that the examiner has sat through your history and has heard it all. Instead the examiner wants a very concise overview of your history.
+
+A summary of a history and examination should be no longer than a minute, and the summary should be weighted more towards your examination findings because the examiner cannot see, feel, or hear what you do so you *need* to convey this information. As such, the summary should be limited to one or two sentences in the style of the above example.
 
 To help with your fluency, you can write out the above sentence before you take your history and leave blank sections for you to fill in while you are taking your history. That what when you are asked to summarise you already have a summary written down.
 
