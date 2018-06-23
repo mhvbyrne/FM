@@ -1,26 +1,45 @@
-General History Taking
-Authors
-Dr Matthew Byrne MBBS, MRes
-Senior Reviewers
+---
+Authors: “Matthew Byrne”
+Reviewers:
+Senior reviewers:
+Date: 2018-06-23
+Quotations:
+video_youtube:
+thumbnail:
+main_photo:
+photos: 
+tags:
+Sources: Mcleod's
+layout:
+---
 
-Student Reviewers
+# History Taking
 
-Date written
-May 2018
-Sources
-Mcleod’s
+## Introduction
+
+Getting the best marks when taking histories is not about asking *all* of the questions, it is about asking a *concise* and *fluent* history that highlights important information and does not miss key sections.
+
+We aim to help you get the best mark you can as painlessly as possible by presenting our concise histories. These include all the questions you *must* ask and explain the main areas that individuals make mistakes.
+
+This will allow you to revise quickly, improve your fluency, and get the best mark you can.
+
+We will present our reasoning for asking the questions we do and why we ask things in certain ways. However, if you find something that works better for you, use it! And please let us know so that we can share it with everyone else.
+
+To streamline your learning we will present a series of descriptions for each history with progressively less information in each, so that you will have less prompts as you progress through you revision. For example, if you are a final year student you do not need us to explain the calgary cambridge model of open to closed questioning, but if you never have taken a history before you need to know about it! In doing so, we make the revision process more efficient as you can focus on the history that has the perfect amount of information to prompt you, without having to revise information you already know. To further increase the efficiency of your learning we present each section with a “need to know” score, to help you prioritise the order of your learning.
+
+We will start with an overiew of history taking in general, this is followed by detailed histories for each system and specialty, and finally we will present mark schemes for you to use. For each symptom we will explode the additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main symptoms you will come across.
+
+## Ojectives
+
+Our objectives for this section are, to provide you with a:
+- Comprehensive overview of history taking in general.
+- Detailed explanations of histories for each system.
+- Mark schemes for each system history.
+- Cardinal symptom question explosion.
+- Differentials
 
 # General History Taking
 
-## Focus and scope
-Getting the best marks when taking histories is not about asking all of the questions, it is about asking a concise fluent history that highlights important information and does not miss key sections.
-We aim to help you get the best mark you can as quickly and effortlessly as possible by presenting our efficient concise histories, which includes all important questions. This will allow you to revise quickly, improve your fluency, and get the best mark you can.
-We will present our reasoning for asking the questions we do and why we ask things in certain ways. However, if you find something that works better for you, use it! And please let us know so that we can share it with everyone else.
-We will present a series of descriptions for each history with progressively less information in each, so that you will have less prompts as you progress through you revision. For example, if you are a final year student you do not need us to explain the calgary cambridge model of open to closed questioning, but if you never have taken a history before you need to know about it! In doing so, we make the revision process more efficient as you can focus on the history that has the perfect amount of information to prompt you, without having to revise information you already know.
-We start with a comprehensive breakdown of taking a history generally, this is followed by histories for each system and specialty, and finally mark sheets which have the minimum amount of information.
-To further increase the efficiency of your learning we present each section with a “need to know” score. This aims to help you to prioritise which information to learn first. For example, the cardiovascular examination has a score of 5, because it is almost guaranteed to come up in your exam, whereas an elbow examination has a score of 1, because it will very rarely come up but you need to know it just in case. This way you know which are the most important stations to revise so you know them inside out, and do not sacrifice this by prioritising less relevant stations.
-For each symptom we will explode the additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main symptoms you will come across.
-General History Taking
 A history consist of an introduction, presenting complaint (PC), history of presenting complaint (HPC), ideas, concerns and expectations (ICE), summarising, signposting, cardinal symptoms, risk factors and red flags (when appropriate), systemic enquiry, past medical history (PMH) and past surgical history (when appropriate), allergies, drug history (DH), family history (FH), and social history (SH).
 You should be well presented and dressed in smart clothing.
 Introduction
