@@ -173,7 +173,7 @@ You can use the mnemonic MUNCHEBARS to help remember each of the organ systems, 
 
 Be wary about asking too many closed questions here, as many of the questions will be irrelevant and will waste time. Instead you may want to ask specific questions relevant to the presenting complaint or system. For example, if a patient presents with lethargy you may want to ask if they have a history of any thyroid problems or anaemia.
 
-Similarly, we do not recommend mnemonics here as they are often too broad and can waste valuable time, but if you do wish to use a mnemonic use **MJ THREADS Ca**
+Similarly, we do not recommend mnemonics here as they are often too broad and can waste valuable time, but if you do wish to use a mnemonic use **MJ THREADS Ca**.
 
 - **M**yocardial infarction
 - **J**aundice
@@ -195,10 +195,14 @@ Similarly, we do not recommend mnemonics here as they are often too broad and ca
 
 Patient’s are often on very long lists of medications, so be wary of this section as it can waste valuable time. You may prefer to leave it until the end, particularly if you are not given a list of medications on the vignette.
 
-**Drugs list**
+**Drugs list** - Do you have a list of your medications?
+
 **Changes to drugs** – New or stopped
+
 **Over the counter** – Homeopathic/herbal
+
 **Recreational drugs** – Make sure to normalise, this is a question we ask everyone, do you take any recreational drugs?
+
 **Specific drugs** – You do not need to ask this for everyone, only if relevant to the presenting complaint. Examples include: anticoagulants, chemotherapy, hormone replacement therapy, antibiotics.
 
 ## Family history
