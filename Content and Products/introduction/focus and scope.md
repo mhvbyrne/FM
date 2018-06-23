@@ -21,7 +21,7 @@ The aim of **focus**|medicine is to create a **concise** set of revision materia
 
 ## Philosophy
 
-Our philosophy is that you don’t need to be the best to ***become the best***.
+Our philosophy is that *you don’t need to be the best* to ***become the best***.
 
 Getting the best marks in exams is not about knowing everything in your textbooks and recommended reading, or learning everything discussed in ward rounds and lectures, it is about **focused learning for exams**.
 
