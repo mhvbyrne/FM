@@ -35,13 +35,13 @@ This what I found during my first clinical exams where I spent too long trying t
 Our objectives are to:
 
 - Present *the* set of core knowledge you need
-- Collate this set from a wide range of sources and ask experts to review it
-- To create notes you can *trust*
-- To prevent you wasting time writing your own notes
-- Grading each topic with a **Need to Know** score so you can prioritise the order in which learn information.
+  - Collate this set from a wide range of sources and ask experts to review it
+  - To create notes you can *trust*
+  - To prevent you wasting time writing your own notes
+  - Grading each topic with a **Need to Know** score so you can prioritise the order in which learn information.
 
 - Demonstrate the *techniques* you can use
-- To *structure* answers
-- To improve *fluency*
+  - To *structure* answers
+  - To improve *fluency*
 
 - Develop your learning to help you **become the best**
