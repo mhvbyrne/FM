@@ -6,10 +6,10 @@ For example, if a patient is presenting symptoms of a flare up of their crohn’
 
 ## Past medical history
 
-**Diagnosis** – when and how was it diagnosed.
+**Diagnosis** – When and how was it diagnosed?
 
-**Management** – current and previous management.
+**Management** – Current and previous management.
 
-**Control** – how well controlled is the disease, how many admissions per year.
+**Control** – How well controlled is the disease? How many admissions per year?
 
-**Complications** – any complications of the disease?
+**Complications** – Any complications of the disease?
