@@ -60,7 +60,7 @@ The respiratory examination is very common station during clinical examinations.
 
 ### Nails
 - Clubbing - lung cancer, interstitial lung disease, bronchiectasis
-- Peripheral cyanosis - O2 saturations <85%
+- Peripheral cyanosis - oxygen saturations <85%
 - Tar staining - smoker - increased risk of COPD and lung cancer.
 
 ### Hands
@@ -71,7 +71,7 @@ The respiratory examination is very common station during clinical examinations.
 - Thinning, bruised skin - steroids - used in COPD, asthma, interstitial lung disease
 - Rheumatoid arthritis - pleural effusion, pulmonary fibrosis
 - Fine tremor - bronchodilator use
-- Coarse tremor - CO2 retention flap - COPD
+- Coarse tremor - carbon dioxide retention flap - COPD
 
 #### Palpation
 - Temperature
@@ -86,7 +86,7 @@ The respiratory examination is very common station during clinical examinations.
   - Multiply by four to obtain the total number over one minute. Make sure to remember this for your summary!
 
 #### Palpation
-- Pulse - rate, rhythm
+- Pulse - rate, rhythm - over 15 second period and multiply by four. Make sure to remember this for your summary!
 - Painful swelling of wrists - may indicate squamous cell carcinoma of lung
 
 ### Arm
@@ -114,7 +114,7 @@ The respiratory examination is very common station during clinical examinations.
   - 45 degrees
   - Turn head to left
   - Look at sternocleidomastoid
-  - Measure number of cm above sternal notch
+  - Measure number of centimeters above sternal notch
 
 #### Palpation
 - Tracheal tug - three fingers on trachea
@@ -177,9 +177,9 @@ Thank patient and ask if they have any questions
 
 To finish I would also like to perform the following:
 - **Examination** - Cardiovascular (if indicated)
-- **Bedside** - O2 saturations, PEFR
-- **Bloods** - ABG (if low saturations)
-- **Imaging** - CXR
+- **Bedside** - Oxygen saturations, blood pressure, peak expiratory flow rate.
+- **Bloods** - Arterial blood gas (if low saturations)
+- **Imaging** - Chest X ray
 - **Microbiology** - Sputum culture
 
 ## Summary
