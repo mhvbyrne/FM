@@ -9,7 +9,7 @@ thumbnail:
 main_photo:
 photos: 
 tags:
-Sources:
+Sources: Geekymedics, 
 Summary: 
 Need to Know: 5
 layout:
@@ -50,11 +50,15 @@ The respiratory examination is very common station during clinical examinations.
   - Frothy - heart failure
 
 ### Patient
-- Speaking in full sentences?
+- Age
+  - Young - asthma, cystic fibrosis
+  - Old - pneumonia, cancer, COPD, interstitial lung disease
+- Speaking in full sentences? - severely short of breath
 - Breathless - tripod position, using accessory muscles, intercostal recession, pursed lips, nasal flaring
-- Cyanosed or pale
-- Cough, wheeze, stridor
-- Cachexic
+- Cyanosed - oxygen saturation <85%
+- Pallor - anaemia of chronic disease
+- Added sounds - cough, wheeze, stridor
+- Cachexic - chronic disease - cancer, COPD, cystic fibrosis
 
 ## Extremities
 
@@ -68,7 +72,7 @@ The respiratory examination is very common station during clinical examinations.
 #### Inspection
 - Wasting - lung cancer
 - Pallor - anaemia
-- Thinning, bruised skin - steroids - used in COPD, asthma, interstitial lung disease
+- Thinning, bruised skin - steroids - used in exacerbations of COPD and asthma, and interstitial lung disease
 - Rheumatoid arthritis - pleural effusion, pulmonary fibrosis
 - Fine tremor - bronchodilator use
 - Coarse tremor - carbon dioxide retention flap - COPD
