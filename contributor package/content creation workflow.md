@@ -1,3 +1,18 @@
+---
+Authors: "Matthew Byrne"
+Reviewers:
+Senior reviewers:
+Date: 2018-06-24
+Quotations:
+video_youtube:
+thumbnail:
+main_photo:
+photos: 
+tags:
+Sources:
+layout:
+---
+
 #Content creation workflow
 
 1. **Title identified** by *Editor* or by suggestions from *Readers*.
