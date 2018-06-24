@@ -1,5 +1,5 @@
 ---
-Authors: "Matthew Byrne"
+Authors: "Matthew Byrne", "Thomas Western"
 Reviewers:
 Senior reviewers:
 Date: 2018-06-24
@@ -35,7 +35,7 @@ layout:
 **Exposure** - whole chest to hips
 **Question** - any pain?
 
-## General
+## General Inspection
 
 ### Around bed
 - Oxygen
@@ -52,15 +52,13 @@ layout:
 ## Extremities
 
 ### Nails
-
-**Inspection**
 - Clubbing - lung cancer, ILD, bronchiectasis
 - Peripheral cyanosis - O2 saturations <85%
 - Tar staining - smoker: increased risk of COPD and lung cancer.
 
 ### Hands
 
-**Inspection**
+#### Inspection
 - Wasting - lung cancer
 - Pallor - anaemia
 - Thinning, bruised skin: steroids - COPD, asthma, ILD
@@ -68,22 +66,24 @@ layout:
 - Fine tremor - bronchodilator use
 - Coarse tremor: CO2 retention flap - COPD
 
-**Palpation**
+#### Palpation
 - Temperature
 - Capillary refill time
 
 ### Wrist
 
-**Inspection**
+#### Inspection
 - Respiratory rate
+  - Count breaths taking over a 15 second period and multiply by four to obtain the total number over one minute.
+  - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
 
-**Palpation**
+#### Palpation
 - Pulse: rate, rhythm
 - Painful swelling of wrists - may indicate squamous cell Ca of lung
 
 ### Arm
 
-- BP
+- Blood pressure
 
 ## Face
 
@@ -102,14 +102,14 @@ layout:
 
 ### Neck
 
-**Inspection**
+#### Inspection
 - JVP - cor pulmonale
   - 45 degrees
   - Turn head to left
   - Look at sternocleidomastoid
   - Measure number of cm above sternal notch
 
-**Palpation**
+#### Palpation
 - Tracheal tug - three fingers on trachea
 - Tracheal deviation - to right or left
 - Cricosternal distance - normally 3-4 fingers
@@ -119,23 +119,26 @@ layout:
 
 ### Front of chest
 
-**Inspection** - ask patient to lift arms, look at sides as well
+#### Inspection
+
+Ask patient to lift arms, to look at sides as well
+
 - Scars
   - Mid axilla, small - chest drain
   - Horizontal posterolateral - thoracotomy (pneumonectomy, lobectomy)
 - Chest wall deformity - barrel chest (COPD), excavatum, carinatum, kyphoscholiosis
 - Asymmetry - surgery (pneumonectomy - cancer, thoracoplasty - tuberculosis)
 
-**Palpation**
+#### Palpation
 - Chest wall expansion - only need to do once
 - Apex beat - midclavicular line, 5th intercostal space
 
-**Percussion**
+#### Percussion
 - Clavicles: percuss directly without placing finger on top of clavicle
 - Two other areas - resonant (normal), hyper-resonant (air), dull (fluid)
 - Axillae
 
-**Auscultation and vocal resonance**
+#### Auscultation and vocal resonance
 - Apex
 - Two other areas
 - Axillae
