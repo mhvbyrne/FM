@@ -20,11 +20,11 @@ layout:
 1. **Author recruited**
 1. *Editor* **sends Contributor Package** to the *Author*
 1. *Author* to **read Contributor Package**, including:
-- Welcome letter
-- Content brief
-- Contractual agreement
-- Github tutorial
-- Markdown tutorial
+  1. Welcome letter
+  1. Content brief
+  1. Contractual agreement
+  1. Github tutorial
+  1. Markdown tutorial
 1. **Deadline agreed**
 1. *Author* to **create a github account**
 1. *Author* to **create and complete a contributor profile folder** on github, including:
