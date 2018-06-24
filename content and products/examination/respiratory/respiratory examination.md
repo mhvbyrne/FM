@@ -1,5 +1,7 @@
 ---
-Authors: "Matthew Byrne" "Thomas Western"
+Authors:
+"Matthew Byrne"
+"Thomas Western"
 Reviewers:
 Senior reviewers:
 Date: 2018-06-24
