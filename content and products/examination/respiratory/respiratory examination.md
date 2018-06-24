@@ -81,9 +81,9 @@ The respiratory examination is very common station during clinical examinations.
 
 #### Inspection
 - Respiratory rate
+  - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
   - Look at the patient's sternum and count breaths taken over a 15 second period.
   - Multiply by four to obtain the total number over one minute. Make sure to remember this for your summary!
-  - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
 
 #### Palpation
 - Pulse - rate, rhythm
