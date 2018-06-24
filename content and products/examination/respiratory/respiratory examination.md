@@ -1,5 +1,5 @@
 ---
-Authors: "Matthew Byrne", "Thomas Western"
+Authors: "Matthew Byrne" "Thomas Western"
 Reviewers:
 Senior reviewers:
 Date: 2018-06-24
@@ -10,30 +10,34 @@ main_photo:
 photos: 
 tags:
 Sources:
+Summary: 
+Need to Know: 5
 layout:
 ---
 
 # Respiratory Examination
 
-## Sections
-1. Introduction
-1. Inspection
-1. Percussion
-1. Auscultation
-1. Closing
-1. Mark scheme
-1. Questions
-1. Technique
+## Objectives
+
+The respiratory examination is very common station during clinical examinations. Here we demonstrate our concise Respiratory Examination that will help you pick up on key clinical signs during your exam.
 
 ## Introduction
+
 **Wash hands**
-**Introduction** - name, position
-**Check patient details** - name, date of birth, age
-**Explanation** - I would like to perform an examination of your chest which will involve...
-**Consent** - is that okay?
+
+**Introduction** - Name, position
+
+**Check patient details** - Name, date of birth, age
+
+**Explanation** - "I would like to perform an examination of your chest which will involve looking at your hands, face, and chest, placing my hands on your chest, and listening with a stethoscope."
+
+**Consent** - Is that okay?
+
 **Positioning** - 45 degrees
-**Exposure** - whole chest to hips
-**Question** - any pain?
+
+**Exposure** - Whole chest to hips - "So that I can properly see your chest can you remove your top please?" In exams, it is not necessary to ask females to remove their bra.
+
+**Question** - "Before we start do you have any pain or questions?"
 
 ## General Inspection
 
@@ -41,10 +45,13 @@ layout:
 - Oxygen
 - Inhalers/nebulisers
 - Sputum pot - note colour of sputum
+  - Green - infective causes
+  - Blood stained - infective causes, cancer, pulmonary embolism
+  - Frothy - heart failure
 
 ### Patient
 - Speaking in full sentences?
-- Breathless: tripod position, using accessory muscles, intercostal recession, pursed lips, nasal flaring
+- Breathless - tripod position, using accessory muscles, intercostal recession, pursed lips, nasal flaring
 - Cyanosed or pale
 - Cough, wheeze, stridor
 - Cachexic
@@ -52,19 +59,19 @@ layout:
 ## Extremities
 
 ### Nails
-- Clubbing - lung cancer, ILD, bronchiectasis
+- Clubbing - lung cancer, interstitial lung disease, bronchiectasis
 - Peripheral cyanosis - O2 saturations <85%
-- Tar staining - smoker: increased risk of COPD and lung cancer.
+- Tar staining - smoker - increased risk of COPD and lung cancer.
 
 ### Hands
 
 #### Inspection
 - Wasting - lung cancer
 - Pallor - anaemia
-- Thinning, bruised skin: steroids - COPD, asthma, ILD
+- Thinning, bruised skin - steroids - used in COPD, asthma, interstitial lung disease
 - Rheumatoid arthritis - pleural effusion, pulmonary fibrosis
 - Fine tremor - bronchodilator use
-- Coarse tremor: CO2 retention flap - COPD
+- Coarse tremor - CO2 retention flap - COPD
 
 #### Palpation
 - Temperature
@@ -74,23 +81,23 @@ layout:
 
 #### Inspection
 - Respiratory rate
-  - Count breaths taking over a 15 second period and multiply by four to obtain the total number over one minute.
+  - Look at the patient's sternum and count breaths taken over a 15 second period.
+  - Multiply by four to obtain the total number over one minute. Make sure to remember this for your summary!
   - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
 
 #### Palpation
-- Pulse: rate, rhythm
-- Painful swelling of wrists - may indicate squamous cell Ca of lung
+- Pulse - rate, rhythm
+- Painful swelling of wrists - may indicate squamous cell carcinoma of lung
 
 ### Arm
-
 - Blood pressure
 
 ## Face
 
 ### Eyes
-- Conjunctival pallor: ask patient to pull down lower eyelid - anaemia
-- Swollen eyes - SVC obstruction
-- Horner’s sign: ptosis, miosis, anhidrosis - pancoast tumour
+- Conjunctival pallor - ask patient to pull down lower eyelid - anaemia
+- Swollen eyes - superior vena cava obstruction
+- Horner’s sign - ptosis, miosis, anhidrosis - pancoast tumour
 
 ### Face
 - Malar Flush
@@ -125,18 +132,23 @@ Ask patient to lift arms, to look at sides as well
 
 - Scars
   - Mid axilla, small - chest drain
-  - Horizontal posterolateral - thoracotomy (pneumonectomy, lobectomy)
-- Chest wall deformity - barrel chest (COPD), excavatum, carinatum, kyphoscholiosis
-- Asymmetry - surgery (pneumonectomy - cancer, thoracoplasty - tuberculosis)
+  - Horizontal posterolateral - thoracotomy for pneumonectomy, lobectomy
+- Chest wall deformity - barrel chest in COPD, excavatum, carinatum, kyphoscholiosis
+- Asymmetry - surgery e.g. pneumonectomy - cancer, thoracoplasty - tuberculosis
 
 #### Palpation
 - Chest wall expansion - only need to do once
 - Apex beat - midclavicular line, 5th intercostal space
 
 #### Percussion
-- Clavicles: percuss directly without placing finger on top of clavicle
-- Two other areas - resonant (normal), hyper-resonant (air), dull (fluid)
+- Clavicles - percuss directly without placing finger on top of clavicle
+- Two other areas
 - Axillae
+
+Note quality of sound
+- Resonant - normal
+- Hyper-resonant - air
+- Dull - fluid
 
 #### Auscultation and vocal resonance
 - Apex
@@ -162,11 +174,27 @@ Ask patient to lift arms, to look at sides as well
 Thank patient and ask if they have any questions
 
 ## Extra tests
+
+To finish I would also like to perform the following:
 - **Examination** - Cardiovascular (if indicated)
 - **Bedside** - O2 saturations, PEFR
 - **Bloods** - ABG (if low saturations)
 - **Imaging** - CXR
-- **Microbiology** - sputum culture
+- **Microbiology** - Sputum culture
+
+## Summary
+
+If you are completing your examination as part of a separate examination station in your exam you can use the following summary structure. If you are completing it alongside a history you should start with your history summary before moving on to your examination summary and omit the demographic information at the start.
+
+This is a 'age' 'sex', on inspection there was... on palpation there was... on percussion there was... on auscultation there was...
+
+## Differential
+
+**Most likely diagnosis** – "My top differential is…"
+
+**Differential** – "My other differentials are…"
+
+**Less likely important conditions not to miss** – "I would also like to rule out..."
 
 ## Technique
 
@@ -176,13 +204,11 @@ Ask patient to take a deep breath in and out, place hands on chest wrapping hand
 
 ### Vocal resonance
 
-Ask the patient to repeat 99 each time you place your stethoscope down.
+Ask the patient to repeat 99 each time you place your stethoscope down. Some universities do not require you to complete vocal resonance, you should check with the education team if it is expected for you to ask.
 
-### Auscultation
-
-**Added sounds**
-- Crepitations: crackles, can be fine or coarse
-- Wheeze: expiratory noise (mainly)
-- Stridor: inspiratory noise
-- Pleuritic Rub: sounds like walking on snow
-- Bronchial Breathing ("tubular", louder expiration)
+### Added sounds on auscultation
+- **Crepitations** - sounds like crackles, and can be fine or coarse
+- **Wheeze** - expiratory noise (mainly)
+- **Stridor** - inspiratory noise
+- **Pleuritic Rub** - sounds like walking on snow
+- **Bronchial Breathing** - sounds like wind moving through a tube, louder during expiration
