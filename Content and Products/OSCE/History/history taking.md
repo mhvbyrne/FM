@@ -23,7 +23,7 @@ We aim to help you get the best mark you can as painlessly as possible by presen
 
 This will allow you to revise quickly, improve your fluency, and get the best mark you can.
 
-We will present our reasoning for asking the questions we do and why we ask things in certain ways. However, if you find something that works better for you, use it! And please let us know so that we can share it with everyone else.
+We will present our reasoning for asking the questions we do and why we ask things in certain ways. However, if you find a way that works better for you, use it! And please let us know so that we can share this with the everyone else.
 
 To streamline your learning we will present a series of descriptions for each history with progressively less information in each, so that you will have less prompts as you progress through you revision.
 
