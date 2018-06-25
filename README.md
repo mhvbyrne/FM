@@ -5,6 +5,6 @@ Collaborative content for FocusMedicine
 
 To add multiple authors to content you need to include each author's name in quote marks seprated by bullet points. So your Markdown code will look like this:
 
-'''Authors:
+'Authors:
 - "Matthew Byrne"
-- "Thomas Western"'''
+- "Thomas Western"'
