@@ -5,6 +5,6 @@ Collaborative content for FocusMedicine
 
 To add multiple Authors, Reviewers, or Senior Reviewers to content you need to include each author's name in quote marks seprated by bullet points. Your Markdown code will look like this:
 
-`Authors:
+```Authors:
 - "Matthew Byrne"
-- "Thomas Western"`
+- "Thomas Western"```
