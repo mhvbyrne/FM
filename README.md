@@ -5,7 +5,7 @@ This is the contributor guide for creating content for **Focus**|Medicine.
 
 ## Markdown
 
-Writing in Markdown is just like writing in a word processor e.g. Microsoft Word but with they formatting buttons removed.
+Writing in Markdown is just like writing in a word processor e.g. Microsoft Word but with the formatting buttons removed.
 
 Instead you write the formatting as simple code. Click "Raw" on the top right to see how this page was written.
 
