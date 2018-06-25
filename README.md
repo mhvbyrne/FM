@@ -1,12 +1,7 @@
----
-Author: "Matthew Byrne"
-Date: 2018-06-25
----
-
 # FM
-Collaborative content for ••Focus••|Medicine.
+Collaborative content for **Focus**|Medicine.
 
-This is the contributor guide for creating content for ••Focus••|Medicine.
+This is the contributor guide for creating content for **Focus**|Medicine.
 
 ## Markdown
 
