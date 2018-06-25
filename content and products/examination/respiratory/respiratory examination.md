@@ -1,5 +1,7 @@
 ---
-Authors: "Matthew Byrne, Thomas Western"
+Authors:
+- "Matthew Byrne"
+- "Thomas Western"
 Reviewers:
 Senior reviewers:
 Date: 2018-06-24
@@ -9,7 +11,8 @@ thumbnail:
 main_photo:
 photos: 
 tags:
-Sources: Geekymedics, 
+Sources:
+- "Geekymedics"
 Summary: 
 Need to Know: 5
 layout:
