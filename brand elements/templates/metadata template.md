@@ -11,6 +11,7 @@ main_photo:
 photos: 
 tags:
 Sources:
+Summary:
 Need to know score:
 layout:
 ---
