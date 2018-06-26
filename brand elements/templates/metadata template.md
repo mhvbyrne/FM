@@ -5,12 +5,12 @@ Senior reviewers:
 Date:
 Quotations:
 video_youtube:
+Audio_file:
 thumbnail:
 main_photo:
 photos: 
 tags:
 Sources:
-layout:
-Audio_file:
 Need to know score:
+layout:
 ---
