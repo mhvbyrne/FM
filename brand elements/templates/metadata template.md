@@ -11,4 +11,6 @@ photos:
 tags:
 Sources:
 layout:
+Audio_file:
+Need to know score:
 ---
