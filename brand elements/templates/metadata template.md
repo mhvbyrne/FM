@@ -2,7 +2,7 @@
 contributors:
   authors:
   reviewers:
-  senior reviewers:
+  senior_reviewers:
 date:
   created:
   reviewed:
@@ -15,7 +15,7 @@ media:
 text:
   summary:
   quotations:
-  need to know score:
+  need_to_know_score:
   tags:
   sources:
 layout:
