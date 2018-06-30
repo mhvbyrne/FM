@@ -1,20 +1,29 @@
 ---
-Authors:
-- "Matthew Byrne"
-- "Thomas Western"
-Reviewers:
-Senior reviewers:
-Date: 2018-06-24
-Quotations:
-video_youtube:
-thumbnail:
-main_photo:
-photos: 
-tags:
-Sources:
-- "Geekymedics"
-Summary: 
-Need to Know: 5
+contributors:
+  authors:
+  - "Matthew Byrne"
+  - "Thomas Western"
+  reviewers:
+  senior_reviewers:
+date:
+  created: 2018-06-24
+  reviewed:
+media:
+  video_youtube:
+  audio_file:
+  thumbnail:
+  main_photo:
+  photos: 
+text:
+  summary: Respiratory examination, a focused osce revision guide for medicine.
+  quotations:
+  need_to_know_score: 5
+  tags:
+  - osce
+  - examination
+  - respiratory
+  sources:
+    - Geeky Medics https://geekymedics.com/respiratory-examination-2/
 layout:
 ---
 
