@@ -18,7 +18,7 @@ Bio: Matthew is the founder of **focus**|medicine. He was inspired to set it up 
 
 Contractual agreement signed?: Yes
 
-Facebook: fb.me/mhvbyrne
+Facebook: https://fb.me/mhvbyrne
 Twitter: https://twitter.com/mhvbyrne
 LinkedIn: https://www.linkedin.com/in/matthew-byrne-14156050/
 ORCID: https://orcid.org/0000-0002-2414-352X
