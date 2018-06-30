@@ -50,9 +50,9 @@ Arterial Blood Gas sampling is a common procedure used to obtain arterial blood,
 
 **Wash hands**
 
-**Introduction** - Name, grade
+**Introduction** - name, grade
 
-**Patient details** - Name, date of birth, age
+**Patient details** - name, date of birth, age
 
 **Explanation** - “I’d like to take a blood test from your wrist to measure the level of oxygen in your blood. It may be more painful than an ordinary blood test and there’s a risk of bruising and bleeding, infection, and damage to the artery”
 
@@ -86,14 +86,14 @@ Ask the examiner if they would like you to perform Allan’s Test.
 - Ask the patient to open their hand - the palm should look pale
 - Release your fingers over the ulnar artery
 - Ulnar artery patency is demonstrated by a **change in hand colour from pale to normal**
-- If the ulnar artery is patent you may procede with the procedure.
+- If the ulnar artery is patent you may procede with the procedure
 
 ### Local anaesthetic
 
 Ask the examiner if they would like you to administer local anaesthetic.
 
 The British Thoracic Society recommends that local anaesthetic should be used, unless it is an emergency or in an unconscious patient.
-- Administer local anaesthetic if required, prior to taking the arterial blood sample.
+- Administer local anaesthetic if required, prior to taking the arterial blood sample
 
 ## Procedure
 - Palpate the radial artery
