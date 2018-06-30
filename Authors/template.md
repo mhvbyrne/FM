@@ -18,12 +18,10 @@ Bio:
 
 Contractual agreement signed?:
 
-Author contributions:
-Reviewer contributions:
-
 Facebook:
 Twitter:
 LinkedIn:
 ORCID:
 Github:
+Layout:
 ---
