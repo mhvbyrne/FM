@@ -38,7 +38,7 @@ The ... examination is [a very common/a common/an uncommon (if uncommon state wh
 
 **Patient details** - name, date of birth, age
 
-**Explanation** - "I would like to perform an examination of your [AAA] which will involve [AAA]."
+**Explanation** - "I would like to perform an examination of your ... which will involve ... ."
 
 **Consent** - Is that okay?
 
