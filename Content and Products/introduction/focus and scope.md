@@ -1,15 +1,24 @@
 ---
-Authors: “Matthew Byrne”
-Reviewers:
-Senior reviewers:
-Date: 2018-06-22
-Quotations:
-video_youtube:
-thumbnail:
-main_photo:
-photos: 
-tags:
-Sources:
+contributors:
+  authors:
+  - "Matthew Byrne"
+  reviewers:
+  senior_reviewers:
+date:
+  created: 2018-06-22
+  reviewed:
+media:
+  video_youtube:
+  audio_file:
+  thumbnail:
+  main_photo:
+  photos: 
+text:
+  summary:
+  quotations:
+  need_to_know_score:
+  tags:
+  sources:
 layout:
 ---
 
@@ -44,3 +53,17 @@ Our objectives are to:
   - To improve **fluency**.
 
 - Develop your learning to help you **become the best**.
+
+## Why chose focus|medicine?
+
+The problem with other resources is:
+- Low quality
+  - No focus - too much text
+  - No structure - due to poor editing
+- Not written from many sources
+  - Which means students feel as though they need to read all the other materials on the same topic for their *perfect* set of notes
+- No review
+  - From students
+  - From seniors
+- No way to differentiate must know topics
+- Minimal collaboration
