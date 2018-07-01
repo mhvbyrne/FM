@@ -34,7 +34,7 @@ layout:
 
 ## Overview
 
-Explaining scope procedures is a common communication topic in examinations.
+Explaining scope procedures is a common communication station during clinical examinations. Here we demonstrate our concise explanation which will help you describe key points during your exam.
 
 ## Introduction
 
@@ -50,9 +50,19 @@ Explaining scope procedures is a common communication topic in examinations.
 
 **Question** - "Before we start do you have any questions?"
 
-## Prior knowledge
-
 ## Ideas, concerns, and expectations
+
+**Ideas** – establish prior knowledge - "What is your understanding of what a bronchoscopy is?"
+
+**Concerns** – "Is there anything you’re worried about? – if there is, probe. I can understand why that might be worrying, is there anything in particular about it that you are worried about?
+
+**Expectations** – Is there anything else that you hope I will be able to help you with today?
+
+## Agenda
+
+**Signpost** - "Today we can discuss what a bronchoscopy is, why it is done, what it involves, and the risks associated with it. We will also discuss the points that you have raised including... is that okay?"
+
+Setting an agenda helps demonstrate to the patient that you acknowledge what they want to discuss, not just the points you want to discuss.
 
 ## Explanation
 
@@ -60,22 +70,15 @@ Explaining scope procedures is a common communication topic in examinations.
 
 **Bronchoscopy** - "is a camera test to look into a your lungs because of [reason], which projects onto a screen that the doctor can see." 
 
-Reasons:
-- Chronic cough
-- Haemoptysis
-- Abnormal findings on Chest X ray or CT scan.
-
 ### Benefits
 
-- **Diagnosis** - "It allows the doctor to have a look at the lungs to help diagnose any problems in a way which X ray or a CT scan may not show."
-  - Infection
-  - Tumours
-  - Mucus
-  - Bleeding
-- **Investigation** - "If there are any abnormalities a sample of tissue can be taken called a biopsy or washing out cells with salt water."
-  - Biopsy
-  - Bronchial lavage
-- **Treatment** - "It can also be used to treat certain lung problems."
+**Diagnosis** - "It allows the doctor to have a look at the lungs to help diagnose any problems in a way which X ray or a CT scan may not show."
+  
+**Investigation** - "If there are any abnormalities a sample of tissue can be taken called a biopsy or washing out cells with salt water." 
+
+**Treatment** - "It can also be used to treat certain lung problems."
+
+Treatments include:
   - Remove inhaled foreign body
   - Stent collapsed airway
   - Remove tumour if blocking airway
@@ -120,26 +123,67 @@ The procedure takes around 30 minutes and involves:
 
 ### Capacity
 
+You may be required to assess capacity. This can be done by asking the patient to repeat what you have said back to you. If a patient has capacity they should be able to 1. understand, 2. retain, 3. weigh, 4. communicate information.
+
 ## Chunk and check
 
+As you are performing your explanation you should chunk and check the information you provide.
+
+**Chunk** - split your explanation into small manageable sections.
+
+**Check** - "I just want to check that I have exaplained that correctly, can you repeat it back to me please?" 
+
 ## Summarise and signpost
+
+At the end of your explanation you should summarise.
+
+**Summarise** – link back to your agenda - "Today we have discussed what a bronchoscopy is, why it is done, what it involves, and the risks associated with it. We have also discussed the points that you raised including..."
+
+**Signpost** – "Now we can develop a plan of what's going to happen next."
 
 ## Closing
 
 ### Plan
+- Organise a date for the procedure
+- Organise a blood test to check you clotting
+- Discuss with your doctor regarding aspirin or warfarin - if applicable
 
+### Further information
+
+If you want any other information you can read this leaflet and we can organise another meeting with me or a senior doctor.
+
+### Closing
+
+Thank you, do you have any questions?
+
+## Tips
+
+### Agenda setting
+
+You want to discuss the explanation, and now you know what Once you know what the patient wants to discuss, it helps if you set an agenda of what you are both going to discuss. You should write these on a piece of paper as you are going along so that you do not forget.
+
+If one of the patients points is completely irrelevant to the current explanation you can suggest that "we can discuss ... at another time"
+
+### Bronchoscopy indications, diagnosis, treatment
+
+Indications include:
+- Chronic cough
+- Haemoptysis
+- Abnormal findings on Chest X ray or CT scan.
+
+Diagnoses includes:
+  - Infection
+  - Tumours
+  - Obstruction
+
+Investigations include:
+  - Biopsy
+  - Bronchial lavage
+  
 ### Safety net
 
 Contact your doctor if:
 - Fever
 - Haemoptysis
 - Breathing difficulties
-
-### Further information
-
-If you want any other information you can read this leaflet and we can organise another meeting.
-
-## Tips
-
-Bronchoscopy can be used to diagnose:
-
+- Chest pain
