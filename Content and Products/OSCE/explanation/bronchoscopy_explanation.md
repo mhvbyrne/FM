@@ -25,7 +25,8 @@ text:
   - "scope"
   - "bronchoscopy"
   sources:
-  - Patient.info : https://patient.info/health/chest-infection/bronchoscopy
+  - National Heart, Lung, and Blood Institute: https://www.nhlbi.nih.gov/health-topics/bronchoscopy
+  - Patient.info: https://patient.info/health/chest-infection/bronchoscopy
 layout:
 ---
 
@@ -57,13 +58,27 @@ Explaining scope procedures is a common communication topic in examinations.
 
 ### Description
 
-**Bronchoscopy** - "is a camera test to look into a your lungs because of [reason], which projects onto a screen that the doctor can see."
+**Bronchoscopy** - "is a camera test to look into a your lungs because of [reason], which projects onto a screen that the doctor can see." 
 
-### Reason
+Reasons:
+- Chronic cough
+- Haemoptysis
+- Abnormal findings on Chest X ray or CT scan.
+
+### Benefits
 
 - **Diagnosis** - "It allows the doctor to have a look at the lungs to help diagnose any problems in a way which X ray or a CT scan may not show."
+  - Infection
+  - Tumours
+  - Mucus
+  - Bleeding
 - **Investigation** - "If there are any abnormalities a sample of tissue can be taken called a biopsy or washing out cells with salt water."
-- **Treatment** - "It can also be used to insert small tubes called stents to treat certain lung problems."
+  - Biopsy
+  - Bronchial lavage
+- **Treatment** - "It can also be used to treat certain lung problems."
+  - Remove inhaled foreign body
+  - Stent collapsed airway
+  - Remove tumour if blocking airway
 
 ### Details
 
@@ -77,11 +92,13 @@ Explaining scope procedures is a common communication topic in examinations.
 #### During
 
 The procedure takes around 30 minutes and involves:
-- **Sedation** - "Which will make you feel a bit woozy like you have had an alcoholic drink and it may mean you can't remember the procedure."
+- **Sedation** - "Which will make you feel more relaxed and it may mean you can't remember the procedure."
 - **Lignocaine gel** - "So that you don't feel the camera."
 - **Camera** - "Camera goes in through the nose and down your windpipe and can inspect your lungs from the inside."
+  - Flexible - thin tube flexible
+  - Rigid - requires general anaesthetic, used for children and some procedures
 - **Biopsy** - "Using the tube that the camera is in, we can also take tissue samples." 
-- **Wash out** - "We can also spray salt water into the lung to collect cells.
+- **Bronchial lavage** - "We can also spray salt water into the lung to collect cells.
 
 #### After
 
@@ -96,8 +113,10 @@ The procedure takes around 30 minutes and involves:
 - **Sore nose and throat**
 - **Infection**
 - **Haemoptysis** - after biopsy
-- **Lung collapse or damage** - rare
-- **Heart attack** - rare
+- **Lung collapse or pneumothorax**
+  - Rigid bronchoscopy - under general anaesthetic may be required to treat collapse
+  - Chest drain - may be required for pneumothorax
+- **Serious complications** - very rare
 
 ### Capacity
 
@@ -118,10 +137,9 @@ Contact your doctor if:
 
 ### Further information
 
+If you want any other information you can read this leaflet and we can organise another meeting.
+
 ## Tips
 
 Bronchoscopy can be used to diagnose:
-  - Infection
-  - Tumours
-  - Mucus
-  - Bleeding
+
