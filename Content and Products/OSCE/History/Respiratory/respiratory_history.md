@@ -190,7 +190,7 @@ For most situations you only need to be concerned about diseases in 1st degree r
 
 **Travel history**
 - Long haul flights – pulmonary embolism
-- Foreign countries – TB
+- Foreign countries – tuberculosis
 - Hotels – legionella
 
 **Disease contacts** - "Have you been in contact with anyone who had similar symptoms?"
