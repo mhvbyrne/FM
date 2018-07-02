@@ -50,23 +50,23 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 (...delete as appropriate)
 
-- **S**ite – "Where is the 'presenting symptom'?"
-- **O**nset
+- **Site** – "Where is the 'presenting symptom'?"
+- **Onset**
   - "When did the symptoms start?"
   - Sudden or gradual?
   - Precipitating facotrs - "What were you doing when it started?"
-- **C**haracter – "How would you describe the 'presenting symptom'?"
-- **R**adiation – "Does the 'presenting symptom' go anywhere else?"
-- **A**ssociated symptoms – "Did you have any other symptoms with the 'presenting symptom'?"
-- **T**imings
+- **Character** – "How would you describe the 'presenting symptom'?"
+- **Radiation** – "Does the 'presenting symptom' go anywhere else?"
+- **Associated symptoms** – "Did you have any other symptoms with the 'presenting symptom'?"
+- **Timings**
   - Frequency – "Ever had this before? How many times?"
   - Constant or intermittent?
   - Progression – "Is the 'presenting symptom' getting better or worse?"
   - Pattern – "Is it better of worse at any time of day? Year? Night time?"
   - Duration – "How long does it last?"
   - Termination – "What caused the symptoms to stop?"
-- **E**xacerbating/relieving symptoms – "Does anything make the 'presenting symptom' better or worse?"
-- **S**everity – "How bad are the symptoms? What impact has this had on your life?"
+- **Exacerbating/relieving symptoms** – "Does anything make the 'presenting symptom' better or worse?"
+- **Severity** – "How bad are the symptoms? What impact has this had on your life?"
 
 ## Ideas, concerns, and expectations
 
