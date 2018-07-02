@@ -123,7 +123,7 @@ The respiratory history is a very common station during clinical examinations. H
   - Neuromuscular disorders
   - Prematurity
 
-You do not have to ask all of these or any if it is not relevant to the presenting complaint.
+**Presentation specific** - if a disease is of particular importance to a presentation you may want to ask specifically about that disease, but do not ask a big list otherwise you will waste time.
 
 ## Allergies
 
