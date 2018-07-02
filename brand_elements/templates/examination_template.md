@@ -28,7 +28,7 @@ layout:
 
 ## Objectives
 
-The ... examination is (...a very common/a common/an uncommon (if uncommon state why we need to cover it)) station during clinical examinations. Here we demonstrate our concise ... Examination that will help you pick up on key clinical signs during your exam.
+The ... examination is (...a very common/a common/an uncommon (if uncommon state why we need to cover it)) station during clinical examinations. Here we demonstrate our concise ... examination that will help you pick up on key clinical signs during your exam.
 
 ## Introduction
 
