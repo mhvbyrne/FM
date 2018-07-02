@@ -43,7 +43,7 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 ## Presenting complaint
 
-**Open question** – "I understand that you have had some (presenting symptom on vignette) can you tell me all about that?"
+**Open question** – "I understand that you have had some 'presenting symptom on vignette' can you tell me all about that?"
 
 **Allow the patient to talk** – it is important not to interrupt the patient at the start, unless they are going off topic.
 
@@ -51,22 +51,22 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 (...delete sections as appropriate)
 
-- **S**ite – "Where is the (presenting symptom)?"
+- **S**ite – "Where is the 'presenting symptom'?"
 - **O**nset
   - "When did the symptoms start?"
   - Sudden or gradual?
   - Precipitating facotrs - "What were you doing when it started?"
-- **C**haracter – "How would you describe the (symptom)?"
-- **R**adiation – "Does the (symptom) go anywhere else?"
-- **A**ssociated symptoms – "Did you have any other symptoms with the (presenting symptom)?"
+- **C**haracter – "How would you describe the 'presenting symptom'?"
+- **R**adiation – "Does the 'presenting symptom' go anywhere else?"
+- **A**ssociated symptoms – "Did you have any other symptoms with the 'presenting symptom'?"
 - **T**imings
   - Frequency – "Ever had this before? How many times?"
   - Constant or intermittent?
-  - Progression – "Is the (symptom) getting better or worse?"
+  - Progression – "Is the 'presenting symptom' getting better or worse?"
   - Pattern – "Is it better of worse at any time of day? Year? Night time?"
   - Duration – "How long does it last?"
   - Termination – "What caused the symptoms to stop?"
-- **E**xacerbating/relieving symptoms – "Does anything make the (symptom) better or worse?"
+- **E**xacerbating/relieving symptoms – "Does anything make the 'presenting symptom' better or worse?"
 - **S**everity – "How bad are the symptoms? What impact has this had on your life?"
 
 ## Ideas, concerns, and expectations
@@ -108,7 +108,7 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 ## Allergies
 
 **Drug allergies** - If there is an allergy probe.
-- Type of allergy – What happened? Is it a true allergy (i.e. anaphylaxis or rash)?
+- Type of allergy – What happened? Is it a true allergy, i.e. anaphylaxis or rash?
 
 ## Drug history
 
@@ -149,7 +149,7 @@ Thank you, do you have any questions?
 
 ## Summary
 
-**Summary** – This is a (age) year old (race) (sex) (job) who presented with worsening/improving (presenting symptom) for (duration), associated with (cardinal symptoms), on a background of (relevant past medical history, family history, social history, drug history).
+**Summary** – This is a 'age' 'race' 'sex' 'job' who presented with worsening/improving 'presenting symptom' for 'duration', associated with 'cardinal symptoms', on a background of 'relevant past medical history, family history, social history, drug history'.
 
 ## Differential
 
