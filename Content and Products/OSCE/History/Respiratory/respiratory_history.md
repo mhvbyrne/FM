@@ -18,7 +18,7 @@ text:
   quotations:
   need_to_know_score:
   tags:
-  sources:
+  sources: patient.co.uk, geekymedics, OHCM, OCSE a teaching manual for medical students, medicine for medical students
 layout:
 ---
 
