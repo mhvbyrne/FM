@@ -71,7 +71,7 @@ For your exam you should be well presented and dressed in smart clothing. You sh
 
 ## Presenting complaint
 
-**Open question** – "I understand that you have had some (presenting symptom on vignette) can you tell me all about that?"
+**Open question** – "I understand that you have had some 'presenting symptom on vignette' can you tell me all about that?"
 
 **Allow the patient to talk** – it is important not to interrupt the patient at the start, unless they are going off topic.
 
@@ -83,22 +83,22 @@ For your exam you should be well presented and dressed in smart clothing. You sh
 
 **SOCRATES** is a mnemonic that was designed to ask about **pain**, however, you can use it as a structure for most presenting complaints by omitting non relevant sections. Taking this approach means you do not need to remember a separate series of questions to enquire about the history of presenting complaint for each history.
 
-- **S**ite – "Where is the (presenting symptom)?"
+- **S**ite – "Where is the 'presenting symptom'?"
 - **O**nset
   - "When did the symptoms start?"
   - Sudden or gradual?
   - Precipitating facotrs - "What were you doing when it started?"
-- **C**haracter – "How would you describe the (symptom)?"
-- **R**adiation – "Does the (symptom) go anywhere else?"
-- **A**ssociated symptoms – "Did you have any other symptoms with the (presenting symptom)?"
+- **C**haracter – "How would you describe the 'presenting symptom'?"
+- **R**adiation – "Does the 'presenting symptom' go anywhere else?"
+- **A**ssociated symptoms – "Did you have any other symptoms with the 'presenting symptom'?"
 - **T**imings
   - Frequency – "Ever had this before? How many times?"
   - Constant or intermittent?
-  - Progression – "Is the (symptom) getting better or worse?"
+  - Progression – "Is the 'presenting symptom' getting better or worse?"
   - Pattern – "Is it better of worse at any time of day? Year? Night time?"
   - Duration – "How long does it last?"
   - Termination – "What caused the symptoms to stop?"
-- **E**xacerbating/relieving symptoms – "Does anything make the (symptom) better or worse?"
+- **E**xacerbating/relieving symptoms – "Does anything make the 'presenting symptom' better or worse?"
 - **S**everity – "How bad are the symptoms? What impact has this had on your life?"
 
 ## Ideas, concerns, and expectations
@@ -113,7 +113,7 @@ For your exam you should be well presented and dressed in smart clothing. You sh
 
 Mark schemes often have specific marks for asking about a patient’s ideas, concerns, and expectations. They are also a good insight into areas which you may have accidentally overlooked.
 
-For example, patients may mention they are worried about cancer, because one of their relatives had it, or that their symptoms are a side effect of a drug which they are taking (which might not be listed in their usual drugs list).
+For example, patients may mention they are worried about cancer, because one of their relatives had it, or that their symptoms are a side effect of a drug which they are taking, which might not be listed in their usual drugs list.
 
 ### Why ask ideas, concerns, and expectations here?
 
@@ -121,7 +121,7 @@ Students often worry that asking ideas, concerns, and expectations can sound awk
 
 ## Summarise and signpost
 
-**Summarise** – "Okay I just want to check that I have got everything correct. Your (presenting symptom) started…"
+**Summarise** – "Okay I just want to check that I have got everything correct. Your 'presenting symptom' started…"
 
 **Signpost** – "I’m now going to ask you some further questions about some symptoms you may have had."
 
@@ -199,7 +199,7 @@ Similarly, we do not recommend mnemonics here as they are often too broad and ca
 ## Allergies
 
 **Drug allergies** – Make sure to ask about allergies, some people fail because they forget to ask. If there is an allergy probe.
-- Type of allergy – What happened? Is it a true allergy (i.e. anaphylaxis or rash)?
+- Type of allergy – What happened? Is it a true allergy, i.e. anaphylaxis or rash?
 
 ## Drug history
 
@@ -247,7 +247,7 @@ Thank you, do you have any questions?
 
 ## Summary
 
-**Summary** – This is a [age] year old [race] [sex] [job] who presented with worsening/improving [presenting symptom] for [duration], associated with [cardinal symptoms], on a background of [relevant past medical history, family history, social history, drug history].
+**Summary** – This is a 'age' 'race' 'sex' 'job' who presented with worsening/improving 'presenting symptom' for 'duration', associated with 'cardinal symptoms', on a background of 'relevant past medical history, family history, social history, drug history'.
 
 ### How to have a fluent summary
 
