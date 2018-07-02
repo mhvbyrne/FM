@@ -95,6 +95,7 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 **General**
 - Fever
 - Weight loss
+
 **Presentation specific**
 - Presentation specific systems enquiry, this will be covered in the exploded symptoms section for each symptom
 
@@ -102,9 +103,11 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 **Open question** – "Do you have any other medical conditions?"
 
-**Relevant to presenting complaint** – You may also want to ask specific questions relevant to the presenting complaint or system. 
-- Specific operations to be aware of: ...
-- Specific diseases to be aware of: ...
+**Specific operations** to be aware of: (... use our surgical seive)
+
+**Specific diseases** to be aware of: (... use our surgical seive)
+
+You do not have to ask all of these or any if it is not relevant to the presenting complaint.
 
 ## Allergies
 
@@ -127,8 +130,9 @@ Recreational drugs – Make sure to normalise - "This is a question we ask every
 
 You can chose to ask a specific question and/or a general question.
 
-- **General** - "Do any illnesses run in the family?"
-- **Specific** - "Has anyone else in your family had a similar problem?" - Specific diseases to be aware of: ...
+**General** - "Do any illnesses run in the family?"
+
+**Specific** - "Has anyone else in your family had a similar problem?" - Specific diseases to be aware of: ...
 
 For most situations you only need to be concerned about diseases in 1st degree relatives.
 
