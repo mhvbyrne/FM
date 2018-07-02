@@ -33,11 +33,12 @@
 1. Social history - alcohol
 1. Social history - home/activities of daily living
 1. Thanks patient
-1. Rapport
-1. Fluency
-1. Empathy
-1. Active listening
 1. Summarising
 1. Signposing
-1. Assessment score from patient
 1. Differential
+1. Overall assessment
+  1. Rapport
+  1. Fluency
+  1. Empathy
+  1. Active listening
+1. Patient assessment
