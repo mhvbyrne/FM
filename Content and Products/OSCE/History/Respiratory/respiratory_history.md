@@ -5,7 +5,7 @@ contributors:
   reviewers:
   senior_reviewers:
 date:
-  created: 
+  created: 2018-07-02
   reviewed:
 media:
   video_youtube:
@@ -93,6 +93,7 @@ The respiratory history is a very common station during clinical examinations. H
 **General**
 - Fever
 - Weight loss
+
 **Presentation specific**
 - Presentation specific systems enquiry, this will be covered in the exploded symptoms section for each symptom
 
