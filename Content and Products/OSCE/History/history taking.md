@@ -1,15 +1,25 @@
 ---
-Authors: “Matthew Byrne”
-Reviewers:
-Senior reviewers:
-Date: 2018-06-23
-Quotations:
-video_youtube:
-thumbnail:
-main_photo:
-photos: 
-tags:
-Sources: Mcleod's
+contributors:
+  authors:
+  - "Matthew Byrne"
+  reviewers:
+  senior_reviewers:
+date:
+  created:
+  reviewed:
+media:
+  video_youtube:
+  audio_file:
+  thumbnail:
+  main_photo:
+  photos: 
+text:
+  summary:
+  quotations:
+  need_to_know_score: 5
+  tags:
+  sources:
+  - Mcleod's
 layout:
 ---
 
@@ -25,13 +35,9 @@ This will allow you to revise quickly, improve your fluency, and get the best ma
 
 We will present our reasoning for asking the questions we do and why we ask things in certain ways. However, if you find a way that works better for you, use it! And please let us know so that we can share this with the everyone else.
 
-To streamline your learning we will present a series of descriptions for each history with progressively less information in each, so that you will have less prompts as you progress through you revision.
+We will start with an overiew of history taking in general and this is followed by detailed histories for each system and specialty. For each cardinal symptom we will provided a cascade of additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main presenting symptoms you will come across. Finally, we present a series of mock cases and mark schemes for you to practice with your colleagues. To further increase the efficiency of your learning we present each section with a “need to know” score, to help you prioritise the order of your learning.
 
-For example, if you are in your final year you do not need us to explain that you should start with open questions and move to closed questioning, you would be better glancing over our system histories and focusing on our mark schemes, but if you never have taken a history before you need to learn about open and closed questions!
-
-In doing so, we make the revision process more efficient as you can focus on the area that has the perfect amount of information to prompt you, without having to revise information you already know. To further increase the efficiency of your learning we present each section with a “need to know” score, to help you prioritise the order of your learning.
-
-We will start with an overiew of history taking in general and this is followed by detailed histories for each system and specialty. For each cardinal symptom we will provided a cascade of additional questions that you need to ask to inform your differential. We will present a summary of the differentials for the main presenting symptoms you will come across. Finally, we present a series of mock cases and mark schemes for you to practice with your colleagues.
+In doing so, you can choose the perfect level of focus for the stage you are at.
 
 ## Ojectives
 
@@ -51,19 +57,23 @@ For your exam you should be well presented and dressed in smart clothing. You sh
 
 ## Introduction
 
-**Introduce yourself** – Hi I’m [name], I’m a final year medical student
+**Wash hands** - even in a history station it is good to get into the habit of washing your hands whenever you see a patient.
 
-**Patient name, age, date of birth** – Can I check your name, age, and date of birth please?
+**Introduction** – name, grade - "Hi I’m ..., I’m a final year medical student"
 
-**Explain & consent** – I’d like to ask you some questions about your symptoms, is that okay?
+**Patient details** – name, date of birth, age - "Can I check your name, age, and date of birth please?"
 
-**Questions** – Do you have any questions before we start?
+**Explanation** – "I would like to ask you some questions about your symptoms"
+
+**Consent** - "Is that okay?"
+
+**Questions** – "Do you have any questions before we start?"
 
 ## Presenting complaint
 
-**Open question** – I understand that you have had some [presenting symptom on vignette] can you tell me all about that?
+**Open question** – "I understand that you have had some (presenting symptom on vignette) can you tell me all about that?"
 
-Let the patient talk – it is important not to interrupt the patient at the start, unless they are going off topic.
+**Allow the patient to talk** – it is important not to interrupt the patient at the start, unless they are going off topic.
 
 ### Why start with open questions?
 
@@ -73,31 +83,31 @@ Let the patient talk – it is important not to interrupt the patient at the sta
 
 **SOCRATES** is a mnemonic that was designed to ask about **pain**, however, you can use it as a structure for most presenting complaints by omitting non relevant sections. Taking this approach means you do not need to remember a separate series of questions to enquire about the history of presenting complaint for each history.
 
-- **S**ite – Where is the [presenting symptom]?
+- **S**ite – "Where is the (presenting symptom)?"
 - **O**nset
-  - When did the symptoms start?
+  - "When did the symptoms start?"
   - Sudden or gradual?
-  - What were you doing when it started? – any precipitating factors?
-- **C**haracter – how would you describe the [symptom]?
-- **R**adiation – does the [symptom] go anywhere else?
-- **A**ssociated symptoms – did you have any other symptoms with the [presenting symptom]
+  - Precipitating facotrs - "What were you doing when it started?"
+- **C**haracter – "How would you describe the (symptom)?"
+- **R**adiation – "Does the (symptom) go anywhere else?"
+- **A**ssociated symptoms – "Did you have any other symptoms with the (presenting symptom)?"
 - **T**imings
-  - Frequency – ever had this before? How many times?
+  - Frequency – "Ever had this before? How many times?"
   - Constant or intermittent?
-  - Progression – is the [symptom] getting better or worse?
-  - Pattern – is it better of worse at any time of day? Year? Night time?
-  - Duration – how long does it last? 
-  - Termination – what caused the symptoms to stop?
-- **E**xacerbating/relieving symptoms – does anything make the [symptom] better or worse?
-- **S**everity – How bad are the symptoms? What impact has this had on your life?
+  - Progression – "Is the (symptom) getting better or worse?"
+  - Pattern – "Is it better of worse at any time of day? Year? Night time?"
+  - Duration – "How long does it last?"
+  - Termination – "What caused the symptoms to stop?"
+- **E**xacerbating/relieving symptoms – "Does anything make the (symptom) better or worse?"
+- **S**everity – "How bad are the symptoms? What impact has this had on your life?"
 
 ## Ideas, concerns, and expectations
 
-**Ideas** – Is there anything you think could be causing your symptoms?
+**Ideas** – "Is there anything you think could be causing your symptoms?"
 
-**Concerns** – Is there anything you’re worried about? – if there is, probe. I can understand why that might be worrying, is there anything in particular about it that you are worried about?
+**Concerns** – "Is there anything you’re worried about?" – if there is, probe. "I can understand why that might be worrying, is there anything in particular about it that you are worried about?"
 
-**Expectations** – Is there anything else that you hope I will be able to help you with today?
+**Expectations** – "Is there anything else that you hope I will be able to help you with today?"
 
 ### Why ask ideas, concerns, and expectations?
 
@@ -111,9 +121,9 @@ Students often worry that asking ideas, concerns, and expectations can sound awk
 
 ## Summarise and signpost
 
-**Summarise** – Okay I just want to check that I have got everything correct. Your [presenting symptom] started…
+**Summarise** – "Okay I just want to check that I have got everything correct. Your (presenting symptom) started…"
 
-**Signpost** – I’m now going to ask you some further questions about some symptoms you may have had.
+**Signpost** – "I’m now going to ask you some further questions about some symptoms you may have had."
 
 ### Why summarise and signpost?
 
@@ -136,17 +146,17 @@ Summarising and signposting here demonstrates to the examiner that you are switc
 **Red flags** – are symptoms which indicate there may be serious underlying pathology. It is not necessary to include red flags for certain system histories.
 
 **Systems enquiry** – ask about symptoms separate to the main organ system which the history focuses on. For example, asking about weight loss in lung cancer. You can ask general constitutional symptoms and presentation specific symptoms.
-- General
+- **General**
   - Fever
   - Weight loss
-- Presentation specific
+- **Presentation specific**
   - Presentation specific systems enquiry, this will be covered in the exploded symptoms section for each symptom
 
 ### Why have a focused systems enquiry?
 
 Instead of asking a systems enquiry which encompasses all organ systems, you should focus on asking questions which rule in or out differential diagnoses. This is so that you do not waste time asking irrelevant questions.
 
-For example if a patient presents with chest pain, as well as focusing on the cardiovascular system you may also want to include some respiratory and gastrointestinal cardinal symptoms to rule out conditions such as pneumonia, pulmonary embolism, or gastroesophageal reflux disease.
+For example, if a patient presents with chest pain, as well as focusing on the cardiovascular system you may also want to include some respiratory and gastrointestinal cardinal symptoms to rule out conditions such as pneumonia, pulmonary embolism, or gastroesophageal reflux disease.
 
 You can use the mnemonic MUNCHEBARS to help remember each of the organ systems, if you are stuck. But you need to be wary when conducting your systems enquiry as you can waste time by asking too many irrelevant questions here.
 
@@ -163,7 +173,7 @@ You can use the mnemonic MUNCHEBARS to help remember each of the organ systems, 
 
 ## Past medical history
 
-**Open question** – Do you have any other medical conditions?
+**Open question** – "Do you have any other medical conditions?"
 
 **Relevant to presenting complaint** – You may also want to ask specific questions relevant to the presenting complaint or system. 
 - Specific operations
@@ -195,40 +205,39 @@ Similarly, we do not recommend mnemonics here as they are often too broad and ca
 
 Patient’s are often on very long lists of medications, so be wary of this section as it can waste valuable time. You may prefer to leave it until the end, particularly if you are not given a list of medications on the vignette.
 
-**Drugs list** - Do you have a list of your medications?
+**Drugs list** - "Do you have a list of your medications?"
+
+**Specific drugs** – You do not need to ask this for everyone, only if relevant to the presenting complaint. For example, anticoagulants if a patient presents with bleeding.
 
 **Changes to drugs** – New or stopped
 
 **Over the counter** – Homeopathic/herbal
 
-**Recreational drugs** – Make sure to normalise, this is a question we ask everyone, do you take any recreational drugs?
-
-**Specific drugs** – You do not need to ask this for everyone, only if relevant to the presenting complaint. Examples include: anticoagulants, chemotherapy, hormone replacement therapy, antibiotics.
+**Recreational drugs** – Make sure to normalise - "This is a question we ask everyone, do you take any recreational drugs?"
 
 ## Family history
 
 You can chose to ask a specific question and/or a general question.
 
-- Specific family history - Has anyone else in your family had a similar problem?
-- General family history - Do any illnesses run in the family?
+- **Specific** - "Has anyone else in your family had a similar problem?"
+- **General** - "Do any illnesses run in the family?"
 
 For most situations you only need to be concerned about diseases in 1st degree relatives.
 
 ## Social history
 
-**Occupation history** – Do you have a job? *OR* Have you had a job in the past?
+**Occupation history** – "Do you have a job?" *OR* "Have you had a job in the past?"
 
-**Smoking history** – Have you ever smoked? Do you still smoke? How many a day? How many years?
+**Smoking history** – "Have you ever smoked? Do you still smoke? How many a day? How many years?"
 
 It’s best to ask have you ever smoked? Rather than “Do you smoke” because then you establish immediately if they are a non-smoker and do not have to ask a second question.
+- 20 cigarettes per day for one year = 1 pack year
 
-20 cigarettes per day for one year = 1 pack year
+**Alcohol history** – "Do you drink alcohol? How many units do you drink per week?"
 
-**Alcohol history** – Do you drink alcohol? How many units do you drink per week?
+**Home** – "Is there anyone else at home?" You do not need to ask this question to everyone, often it is only important if the person is a child, elderly, or has a disease which may limit their day to day activities.
 
-**Home** – Is there anyone else at home? You do not need to ask this question to everyone, often it is only important if the person is a child, elderly, or has a disease which may limit their day to day activities.
-
-**Activities of daily living** – Do you have any problems with washing? Dressing? Or cooking yourself? If there are any problems identified you can also ask if the patient has any carers. You do not need to ask this question to everyone, often it is only important if the person is a child, elderly, or has a disease which may limit their day to day activities.
+**Activities of daily living** – "Do you have any problems with washing? Dressing? Or cooking yourself?" If there are any problems identified you can also ask if the patient has any carers. You do not need to ask this question to everyone, often it is only important if the person is a child, elderly, or has a disease which may limit their day to day activities.
 
 ## Closing
 
