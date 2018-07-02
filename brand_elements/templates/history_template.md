@@ -25,7 +25,7 @@ layout:
 
 ## Overview
 
-The ... history is (...a very common/a common/an uncommon (if uncommon state why we need to cover it)) station during clinical examinations. Here we demonstrate our concise ... History that will help you pick up on key information during your exam.
+The ... history is (...a very common/a common/an uncommon (if uncommon state why we need to cover it)) station during clinical examinations. Here we demonstrate our concise ... history that will help you pick up on key information during your exam.
 
 ## Introduction
 
