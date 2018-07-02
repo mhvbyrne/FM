@@ -107,7 +107,7 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 **Specific diseases** to be aware of: (... use our surgical seive)
 
-You do not have to ask all of these or any if it is not relevant to the presenting complaint.
+**Presentation specific** - if a disease is of particular importance to a presentation you may want to ask specifically about that disease, but do not ask a big list otherwise you will waste time.
 
 ## Allergies
 
