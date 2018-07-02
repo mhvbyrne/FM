@@ -20,7 +20,6 @@ text:
   sources:
 layout:
 ---
-
 # ... History
 
 ## Overview
@@ -49,7 +48,7 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 ## History of presenting complaint
 
-(...delete sections as appropriate)
+(...delete as appropriate)
 
 - **S**ite – "Where is the 'presenting symptom'?"
 - **O**nset
@@ -86,8 +85,10 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 ## Cardinal symptoms
 
 ## Risk factors
+(...Not necessary for some system histories. Delete if not appropriate)
 
 ## Red flags
+(...Not necessary for some system histories. Delete if not appropriate)
 
 ## Systems enquiry
 
@@ -102,8 +103,8 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 **Open question** – "Do you have any other medical conditions?"
 
 **Relevant to presenting complaint** – You may also want to ask specific questions relevant to the presenting complaint or system. 
-- Specific operations
-- Specific diseases
+- Specific operations to be aware of: ...
+- Specific diseases to be aware of: ...
 
 ## Allergies
 
@@ -114,7 +115,7 @@ The ... history is (...a very common/a common/an uncommon (if uncommon state why
 
 **Drugs list** - "Do you have a list of your medications?"
 
-**Specific drugs** – You do not need to ask this for everyone, only if relevant to the presenting complaint. For example, anticoagulants if a patient presents with bleeding.
+**Specific drugs** to be aware of: ...
 
 Changes to drugs – New or stopped
 
@@ -126,8 +127,8 @@ Recreational drugs – Make sure to normalise - "This is a question we ask every
 
 You can chose to ask a specific question and/or a general question.
 
-- **Specific** - "Has anyone else in your family had a similar problem?"
 - **General** - "Do any illnesses run in the family?"
+- **Specific** - "Has anyone else in your family had a similar problem?" - Specific diseases to be aware of: ...
 
 For most situations you only need to be concerned about diseases in 1st degree relatives.
 
