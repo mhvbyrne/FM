@@ -44,6 +44,7 @@ layout:
 ## Pathophysiology
 
 ### Macroscopic appearance
+(Including anatomy)
 
 ### Microscopic appearance
 
@@ -54,6 +55,8 @@ layout:
 ## Prognosis
 
 ### Complications
+
+### Mortality
 
 ## Differential
 
