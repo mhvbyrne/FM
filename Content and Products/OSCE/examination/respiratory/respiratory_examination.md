@@ -24,6 +24,9 @@ text:
   - respiratory
   sources:
     - Geeky Medics https://geekymedics.com/respiratory-examination-2/
+    - Unofficial guide to passing osces
+    - Macleod's
+    - https://www.medicaleducationleeds.com/paces/respiratory-examination/
 layout:
 ---
 
@@ -54,23 +57,22 @@ The respiratory examination is very common station during clinical examinations.
 ## General Inspection
 
 ### Around bed
-- Oxygen
-- Inhalers/nebulisers
+- Oxygen - COPD, interstilial lung disease
+- Inhalers/nebulisers - COPD, asthma
 - Sputum pot - note colour of sputum
-  - Green - infective causes
-  - Blood stained - infective causes, cancer, pulmonary embolism
-  - Frothy - heart failure
 
 ### Patient
 - Age
   - Young - asthma, cystic fibrosis
   - Old - pneumonia, cancer, COPD, interstitial lung disease
-- Speaking in full sentences? - severely short of breath
-- Breathless - tripod position, using accessory muscles, intercostal recession, pursed lips, nasal flaring
 - Cyanosed - oxygen saturation <85%
 - Pallor - anaemia of chronic disease
-- Added sounds - cough, wheeze, stridor
 - Cachexic - chronic disease - cancer, COPD, cystic fibrosis
+- Cushingoid - steroids - asthma, COPD
+- Signs of respiratory disress?
+- Added sounds - cough, wheeze, hoarseness, stridor, stertor, agonal
+  - Stertor - snoring sounds caused by partial upper airway obstruction
+  - Agonal - laboured gasping, emergency sign - extreme hypoxia
 
 ## Extremities
 
@@ -85,7 +87,8 @@ The respiratory examination is very common station during clinical examinations.
 - Wasting - lung cancer
 - Pallor - anaemia
 - Thinning, bruised skin - steroids - used in exacerbations of COPD and asthma, and interstitial lung disease
-- Rheumatoid arthritis - pleural effusion, pulmonary fibrosis
+- Rheumatoid arthritis - associated with pleural effusion, pulmonary fibrosis
+- Palmar erythema
 - Fine tremor - bronchodilator use
 - Coarse tremor - carbon dioxide retention flap - COPD
 
@@ -96,13 +99,15 @@ The respiratory examination is very common station during clinical examinations.
 ### Wrist
 
 #### Inspection
-- Respiratory rate
+- Respiratory rate - normal between 12-20 breaths/minute
   - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
   - Look at the patient's sternum and count breaths taken over a 15 second period.
   - Multiply by four to obtain the total number over one minute. Make sure to remember this for your summary!
 
 #### Palpation
 - Pulse - rate, rhythm - over 15 second period and multiply by four. Make sure to remember this for your summary!
+  - Bounding - CO2 retention
+  - Paradoxical - you can auscultate a heartbeat but cannot palpate the beat at the wrist - respiratory distress
 - Painful swelling of wrists - may indicate squamous cell carcinoma of lung
 
 ### Arm
@@ -113,7 +118,7 @@ The respiratory examination is very common station during clinical examinations.
 ### Eyes
 - Conjunctival pallor - ask patient to pull down lower eyelid - anaemia
 - Swollen eyes - superior vena cava obstruction
-- Horner’s sign - ptosis, miosis, anhidrosis - pancoast tumour
+- Horner’s sign - ptosis, miosis, anhidrosis, enopthalmus - pancoast tumour
 
 ### Face
 - Malar Flush
@@ -133,10 +138,13 @@ The respiratory examination is very common station during clinical examinations.
   - Measure number of centimeters above sternal notch
 
 #### Palpation
-- Tracheal tug - three fingers on trachea
+Warn patient that you are going to touch their "wind pipe" and it may be uncomfortable.
+- Tracheal tug - three fingers on trachea ///
 - Tracheal deviation - to right or left
-- Cricosternal distance - normally 3-4 fingers
-- Lymph nodes
+- Cricosternal distance - normally >3 fingers, <3 demonstrates hyperexpansion
+- Lymph nodes - lung cancer, tuberculosis.
+  - Palpate from behind the patient, with the patient sat forwards
+  - Lymph nodes to palpate - submental (below chin), submandibular (under jaw), pre- and post- auricular (infront and behind ear), occipital, anterior and posterior cervical (front and back of sternocleidomastoid), supraclavicular. 
 
 ## Chest
 
@@ -154,12 +162,15 @@ Ask patient to lift arms, to look at sides as well
 
 #### Palpation
 - Chest wall expansion - only need to do once
-- Apex beat - midclavicular line, 5th intercostal space
+- Apex beat - displaced in scoliosis, dilatation of the left ventricle
+  - midclavicular line, 5th intercostal space. Make sure that you demonstrate to the examiner by palpating down the intercostal spaces from the manubriosternal joint (2nd intercostal space)
+- Right heave - Right ventricle hypertrophy due to pulmonary hypertension
 
 #### Percussion
 - Clavicles - percuss directly without placing finger on top of clavicle
 - Two other areas
 - Axillae
+Compare left to right side
 
 Note quality of sound
 - Resonant - normal
@@ -167,19 +178,22 @@ Note quality of sound
 - Dull - fluid
 
 #### Auscultation and vocal resonance
-- Apex
-- Two other areas
+- Apices - listen with bell just behind clavicle
+- Two other areas - listen with diaphragm
 - Axillae
+Compare left to right side
 
 ### Back
 
-- Inspection for scars again - pneumonectomy, lobectomy
+#### Inspection
+- Scars - pneumonectomy, lobectomy
+- Deformity - kyphoscoliosis, ankylosing spondylitis
+
+#### Palpation, percussion, ausculation
+Ask the patient to cross their arms to move the scapulae out of the way.
 - Expansion
-- Percussion
-  - Three areas
-- Auscultation and vocal resonance
-  - Three areas
-- **Sacral oedema**
+- Sacral oedema
+- Percuss and auscultate in three areas, comparing left to right side
 
 ## Legs
 - Rash - erythema nodosum
@@ -214,13 +228,22 @@ This is a 'age' 'sex', on inspection there was... on palpation there was... on p
 
 ## Technique
 
+### Sputum type
+  - White, viscous - asthma
+  - Grey, clear - COPD
+  - Yellow or green colour - infective causes
+  - Red colour - Pneumococcal pneumonia
+  - Blood stained - infective causes, cancer, pulmonary embolism
+  - Frothy, pink - heart failure
+  - Large volume - bronchiectasis
+
 ### Chest wall expansion
 
 Ask patient to take a deep breath in and out, place hands on chest wrapping hands around the base of chest and oppose your thumbs, then ask patient to breath in again to see how the tips of your thumbs move to assess expansion and symmetry.
 
-### Vocal resonance
+### Tactile and vocal resonance
 
-Ask the patient to repeat 99 each time you place your stethoscope down. Some universities do not require you to complete vocal resonance, you should check with the education team if it is expected for you to ask.
+Ask the patient to repeat 99 each time you place your hand (tactile resonance) or your stethoscope (vocal resonance) on the chest. Resonance is increased in areas of consolidation. Some universities do not require you to complete tactile or vocal resonance, you should check with your education team if it is expected for you to ask.
 
 ### Added sounds on auscultation
 - **Crepitations** - sounds like crackles, and can be fine or coarse
@@ -228,3 +251,13 @@ Ask the patient to repeat 99 each time you place your stethoscope down. Some uni
 - **Stridor** - inspiratory noise
 - **Pleuritic Rub** - sounds like walking on snow
 - **Bronchial Breathing** - sounds like wind moving through a tube, louder during expiration
+
+https://www.medicaleducationleeds.com/paces/respiratory-examination/ ///
+
+Crackles? Ask the patient to cough ///
+
+### Signs of respiratory distress
+Not speaking in full sentences, tachypnoea, tripod position, using accessory muscles, intercostal recession, pursed lips, nasal flaring, tracheal tug (thyroid cartilage being pulled to the sternal notch during inspiration), pulsus paradoxus, paradoxical respiration (diaphragm rises with inspiration).
+
+### Breathing patterns ///
+https://www.medicaleducationleeds.com/paces/respiratory-examination/
