@@ -70,3 +70,6 @@ To ensure that our content remains up to date we regularly review it's accuracy.
 ## Multiple authorship
 
 The same workflow is followed when there are multiple authors for a single contribution. All authors hold equal responsibility for any issues arising.
+
+## Alternative idea
+https://wiki.js.org/
