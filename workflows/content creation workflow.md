@@ -73,3 +73,4 @@ The same workflow is followed when there are multiple authors for a single contr
 
 ## Alternative idea
 https://wiki.js.org/
+Wikipedia platform with markdown and git backend
