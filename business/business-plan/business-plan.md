@@ -13,7 +13,7 @@ There are a number of competitions already in this field:
 
 **URL:** http://www.pulsenotes.com/
 
-![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.pngs=200)
+![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.png){:height="50%" width="50%"}
 
 ### Services
 1. Online notes
