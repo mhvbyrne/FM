@@ -8,7 +8,8 @@
 
 ## Pulsenotes
 
-![Pulsenotes market size](/figures/pulse-notes-market-size.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-market-size.png)
+https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-market-size.png
 
 
 # Organization and management - your business and management structure.
