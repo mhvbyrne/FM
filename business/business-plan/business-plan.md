@@ -1,19 +1,25 @@
-#Executive summary - a snapshot of your business.
+# Executive summary - a snapshot of your business.
 
 
 
-#Company description - describes what you do.
+# Company description - describes what you do.
 
-#Market analysis - research on your industry, market, and competitors.
+# Market analysis - research on your industry, market, and competitors.
 
-#Organization and management - your business and management structure.
+## Pulsenotes
 
-#Service or product - the products or services you’re offering.
+![Pulsenotes market size](/business/business-plan/figures/pulse-notes-market-size.png)
+Format: ![Pulsenotes market size](url)
 
-#Marketing and sales - how you’ll market your business and your sales strategy.
 
-#Funding request - how much money you’ll need for next 3 to 5 years.
+# Organization and management - your business and management structure.
 
-#Financial projections - supply information like balance sheets.
+# Service or product - the products or services you’re offering.
 
-#Appendix- an optional section that includes résumés and permits.
+# Marketing and sales - how you’ll market your business and your sales strategy.
+
+# Funding request - how much money you’ll need for next 3 to 5 years.
+
+# Financial projections - supply information like balance sheets.
+
+# Appendix- an optional section that includes résumés and permits.
