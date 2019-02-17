@@ -39,7 +39,7 @@ There are a number of competitions already in this field:
 
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
 
-*Figure: 75% internal speakers*
+*Figure: wide range of topics, pretty changing image when hovering mouse over it*
 
 
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
@@ -61,7 +61,7 @@ Notes cover:
 
 ##### Videos
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-explainer.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-video-explainer.png" width="60%" height="60%">
 
 *Figure: Video explainer on front and about page*
 
@@ -89,7 +89,7 @@ Notes cover:
 
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="60%" height="60%">
 
-*Figure: Few external speakers*
+*Figure: 75% internal speakers*
 
 
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="60%" height="60%">
@@ -128,6 +128,7 @@ They also run events which have a separate fee.
 #### Pros
 * Very pretty
 * High quality images
+* High quality illustrations
 * Video explainer
 * Mobile device app
 * Content is only developed in house - quality
@@ -150,6 +151,7 @@ They also run events which have a separate fee.
 * Blog hasn't been updated in a year
 * Just targeted at students
 * Notes not tagged to see what is relevant for nursing students and physicians associates.
+* Poor quality tables, unable to see the text
 
 ### Improvements
 * Comphrensive coverage of topics
