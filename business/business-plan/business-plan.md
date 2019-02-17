@@ -7,6 +7,7 @@
 # Market analysis - research on your industry, market, and competitors.
 
 ## Market size
+---
 * 7500 new doctors each year.
 * Five years of medical school.
 * A total of 37500 medical students.
@@ -17,12 +18,14 @@ There are a number of competitions already in this field:
 * Pulsenotes
 
 ### Pulsenotes
+---
 
 **URL:** http://www.pulsenotes.com/
 
 ![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.png)
 
 #### Services
+---
 1. Online notes
 1. Question bank
 1. Video lectures
