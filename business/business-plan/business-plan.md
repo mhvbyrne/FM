@@ -23,11 +23,8 @@ There are a number of competitions already in this field:
 
 ![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.png)
 
-<p>
-<center>  
-**Figure: Pulsenotes**
-</center>
-</p>
+*Figure: Pulsenotes*
+
 
 ---
 #### Services
@@ -40,29 +37,20 @@ There are a number of competitions already in this field:
 
 ##### Notes
 
-<p>
-<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
 
-**Figure: 75% internal speakers**
-</center>
-</p>
+*Figure: 75% internal speakers*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
 
-**Figure: Notes available on mobile devices through app**
-</center>
-</p>
+*Figure: Notes available on mobile devices through app*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="60%" height="60%">
 
-**Figure: Table too small to read**
-</center>
-<\p>
+*Figure: Table too small to read*
+
   
 Notes cover:
 1. Medicine
@@ -73,63 +61,41 @@ Notes cover:
 
 ##### Videos
 
-<p>
-<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-explainer.png" width="60%" height="60%">
 
-**Figure: Video explainer on front and about page**
-</center>
-</p>
+*Figure: Video explainer on front and about page*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-videos.png" width="60%" height="60%">
 
-**Figure: Video content**
-</center>
-</p>
+*Figure: Video content*
 
 ##### Live
 
-<p>
-<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="60%" height="60%">
 
-**Figure: Pulsenotes live**
-</center>
-</p>
+*Figure: Pulsenotes live*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-2.png" width="60%" height="60%">
 
-**Figure: Medicine and surgery**
-</center>
-</p>
+*Figure: Medicine and surgery*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-3.png" width="60%" height="60%">
 
-**Figure: Breakdown of each day**
-</center>
-</p>
+*Figure: Breakdown of each day*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="60%" height="60%">
 
-**Figure: Few external speakers**
-</center>
-</p>
+*Figure: Few external speakers*
 
-<p>
-<center>
+
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="60%" height="60%">
 
-**Figure: Animated google maps at bottom of page**
-</center>
-</p>
+*Figure: Animated google maps at bottom of page*
+
 
 ---
 #### Technology
@@ -152,7 +118,7 @@ They also run events which have a separate fee.
 
 * 4500 members
 * £5 per month fee
-* £270,000
+* £270,000 per annum
 
 **Uncertaincies**
 * It is unclear how many of these may have recieved a discount
