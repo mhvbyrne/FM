@@ -7,7 +7,6 @@
 # Market analysis - research on your industry, market, and competitors.
 
 ## Market size
----
 * 7500 new doctors each year.
 * Five years of medical school.
 * A total of 37500 medical students.
@@ -20,12 +19,13 @@ There are a number of competitions already in this field:
 ---
 ### Pulsenotes
 
-
----
 **URL:** http://www.pulsenotes.com/
 
+<center>
 ![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.png)
+
 **Figure: Pulsenotes**
+<\center>
 
 ---
 #### Services
@@ -36,46 +36,78 @@ There are a number of competitions already in this field:
 1. Live events - revision events
 1. Mobile device app
 
+##### Notes
+
+<center>
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
+
+**Figure: 75% internal speakers**
+<\center>
+  
+<center>
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
+
+**Figure: Notes available on mobile devices through app**
+<\center>
+  
+<center>
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="60%" height="60%">
+
+**Figure: Table too small to read**
+<\center>
+  
 Notes cover:
 1. Medicine
 1. Surgery
 1. Specialties
 1. Clinical skills
 1. Cases
-1. Cases
-
-##### Notes
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
-**Figure: Few external speakers**
-
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
-**Figure: notes available on mobile devices through app**
-
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="60%" height="60%">
-**Figure: Few external speakers**
 
 ##### Videos
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-explainer.png" width="60%" height="60%">
-**Figure: Video explainer on front and about page**
 
+<center>
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-explainer.png" width="60%" height="60%">
+
+**Figure: Video explainer on front and about page**
+<\center>
+  
+<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-videos.png" width="60%" height="60%">
+
 **Figure: Video content**
+<\center>
 
 ##### Live
+
+<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="60%" height="60%">
+
 **Figure: Pulsenotes live**
-
+<\center>
+  
+<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-2.png" width="60%" height="60%">
+
 **Figure: Medicine and surgery**
-
+<\center>
+  
+<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-3.png" width="60%" height="60%">
+
 **Figure: Breakdown of each day**
-
+<\center>
+  
+<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="60%" height="60%">
-**Figure: Few external speakers**
 
+**Figure: Few external speakers**
+<\center>
+  
+<center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="60%" height="60%">
+
 **Figure: Animated google maps at bottom of page**
+<\center>
 
 ---
 #### Technology
