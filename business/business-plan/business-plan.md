@@ -17,15 +17,19 @@
 There are a number of competitions already in this field:
 * Pulsenotes
 
-### Pulsenotes
 ---
+### Pulsenotes
 
+
+---
 **URL:** http://www.pulsenotes.com/
 
 ![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.png)
+**Figure: Pulsenotes**
 
-#### Services
 ---
+#### Services
+
 1. Online notes
 1. Question bank
 1. Video lectures
@@ -40,22 +44,40 @@ Notes cover:
 1. Cases
 1. Cases
 
-##### Live
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="50%" height="50%">
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-2.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-3.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-4.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-5.png)
-
 ##### Notes
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-topics.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-notes.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-table.png)
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
+**Figure: Few external speakers**
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
+**Figure: notes available on mobile devices through app**
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="60%" height="60%">
+**Figure: Few external speakers**
 
 ##### Videos
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-explainer.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-videos.png)
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-explainer.png" width="60%" height="60%">
+**Figure: Video explainer on front and about page**
 
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-videos.png" width="60%" height="60%">
+**Figure: Video content**
+
+##### Live
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="60%" height="60%">
+**Figure: Pulsenotes live**
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-2.png" width="60%" height="60%">
+**Figure: Medicine and surgery**
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-3.png" width="60%" height="60%">
+**Figure: Breakdown of each day**
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="60%" height="60%">
+**Figure: Few external speakers**
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="60%" height="60%">
+**Figure: Animated google maps at bottom of page**
+
+---
 #### Technology
 
 Ruby on rails?
@@ -64,15 +86,15 @@ Front end and back end separate
 * Front end: http://www.pulsenotes.com/
 * Back end: https://app.pulsenotes.com/
 
+---
 #### Business model
 
 Pulse notes uses a subscription based business plan similar to Spotify.
 
 They also run events which have a separate fee.
 
+---
 #### Revenue
-
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-market-size.png)
 
 * 4500 members
 * £5 per month fee
@@ -82,6 +104,7 @@ They also run events which have a separate fee.
 * It is unclear how many of these may have recieved a discount
 * This does not take into account the money earnt from live events
 
+---
 #### Pros
 * Very pretty
 * High quality images
