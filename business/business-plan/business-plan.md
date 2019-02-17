@@ -17,7 +17,7 @@ There are a number of competitions already in this field:
 * Pulsenotes
 
 ---
-### Pulsenotes
+## Pulsenotes
 
 **URL:** http://www.pulsenotes.com/
 
@@ -27,7 +27,7 @@ There are a number of competitions already in this field:
 
 
 ---
-#### Services
+### Services
 
 1. Online notes
 1. Question bank
@@ -35,67 +35,92 @@ There are a number of competitions already in this field:
 1. Live events - revision events
 1. Mobile device app
 
-##### Notes
+#### Notes
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
+Notes cover:
+* Medicine
+  * Cardiology, diabetes, endocrinology, gastroenterology, microbiology, neurology, renal, respiratory, rheumatology
+* Surgery
+  * Cardiothoracics, ENT, general surgery, orthopaedics, vascular, neurosurgery, plastics
+* Specialties
+  *
+* Clinical skills
+  *
+* Cases
+  *
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-note-example.png" width="40%" height="40%">
+
+*Figure: Note example*
+
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="40%" height="40%">
 
 *Figure: wide range of topics, pretty changing image when hovering mouse over it*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="40%" height="40%">
 
 *Figure: Notes available on mobile devices through app*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="40%" height="40%">
 
 *Figure: Table too small to read*
 
-  
-Notes cover:
-1. Medicine
-1. Surgery
-1. Specialties
-1. Clinical skills
-1. Cases
 
-##### Videos
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-coming-soon.png" width="40%" height="40%">
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-video-explainer.png" width="60%" height="60%">
+*Figure: Coming soon notes*
+
+#### Videos
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-video-explainer.png" width="40%" height="40%">
 
 *Figure: Video explainer on front and about page*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-videos.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-videos.png" width="40%" height="40%">
 
 *Figure: Video content*
 
-##### Live
+#### Question bank
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="60%" height="60%">
+
+
+
+#### Live
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="40%" height="40%">
 
 *Figure: Pulsenotes live*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-2.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-2.png" width="40%" height="40%">
 
 *Figure: Medicine and surgery*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-3.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-3.png" width="40%" height="40%">
 
 *Figure: Breakdown of each day*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="40%" height="40%">
 
 *Figure: 75% internal speakers*
 
 
-<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="60%" height="60%">
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="40%" height="40%">
 
 *Figure: Animated google maps at bottom of page*
 
+
+#### Mobile device app
+
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-mobile.png" width="40%" height="40%">
+
+*Figure: Mobile device app*
 
 ---
 #### Technology
@@ -111,7 +136,7 @@ Front end and back end separate
 
 Pulse notes uses a subscription based business plan similar to Spotify.
 
-They also run events which have a separate fee.
+They also run live events which have a separate fee.
 
 ---
 #### Revenue
@@ -119,6 +144,9 @@ They also run events which have a separate fee.
 * 4500 members
 * £5 per month fee
 * £270,000 per annum
+
+All the notes are free
+
 
 **Uncertaincies**
 * It is unclear how many of these may have recieved a discount
@@ -137,7 +165,9 @@ They also run events which have a separate fee.
 * Blog for updates about the website
 * Sign up/billing page simple
 * Discount code on billing page
-* Nursing students, and Physician associate students also targetted.
+* Nursing students, and Physician associate students also targetted
+* Coming soon for new notes
+* Exam button on top right of notes
 
 ### Cons
 * Slow loading time
@@ -152,12 +182,20 @@ They also run events which have a separate fee.
 * Just targeted at students
 * Notes not tagged to see what is relevant for nursing students and physicians associates.
 * Poor quality tables, unable to see the text
+* No pre-clinical medicine
+* Incomplete set of areas, vague areas - diabetes and endocrinology as separate areas
+* Specialty grouping doesn't make sense, why is oncology, haematology in the specialties category?
+* Repetition in notes
+* Anatomy section is weak - not as many diagrams as I would like, not enough information in diagrams, too wordy.
+* Cases are just a breakdown of a presenting complaint
 
 ### Improvements
 * Comphrensive coverage of topics
-* Large team
+* Larger team
 * Senior review process
 * Live events - more people running the events, more locations
+* Exam button - could have questions directly related to note topic just read, each page could have 5 questions associated with it (not just MCQs) and the person could answer these questions following reading the topic, rather than going and doing all the MCQ questions which aren't directly relevant.
+* High yield summary, around 4 lines long for each topic at the start, before the definition. Similar to the hyperkalaemia example. Designed to be an answer to: tell me about hyperkalaemia... It should be the minimum you should know for each topic.
 
 # Organization and management - your business and management structure.
 
