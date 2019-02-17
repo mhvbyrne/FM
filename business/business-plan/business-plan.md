@@ -38,12 +38,11 @@ Notes cover:
 1. Cases
 
 ##### Live
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live.png)
+<img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width:"50%" height:"50%">
 ![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-2.png)
 ![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-3.png)
 ![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-4.png)
 ![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-5.png)
-![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-map.png)
 
 ##### Notes
 ![Pulsenotes market size](/business/business-plan/figures/pulsenotes-topics.png)
