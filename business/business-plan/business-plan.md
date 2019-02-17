@@ -37,6 +37,23 @@ Notes cover:
 1. Cases
 1. Cases
 
+##### Live
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-2.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-3.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-4.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-5.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-live-map.png)
+
+##### Notes
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-topics.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-notes.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-table.png)
+
+##### Videos
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-explainer.png)
+![Pulsenotes market size](/business/business-plan/figures/pulsenotes-videos.png)
+
 #### Technology
 
 Ruby on rails?
