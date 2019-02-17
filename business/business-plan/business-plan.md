@@ -25,7 +25,7 @@ There are a number of competitions already in this field:
 ![Pulsenotes front page](/business/business-plan/figures/pulsenotes-front-page.png)
 
 **Figure: Pulsenotes**
-<\center>
+</center>
 
 ---
 #### Services
@@ -42,19 +42,19 @@ There are a number of competitions already in this field:
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-topics.png" width="60%" height="60%">
 
 **Figure: 75% internal speakers**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-notes.png" width="60%" height="60%">
 
 **Figure: Notes available on mobile devices through app**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-table.png" width="60%" height="60%">
 
 **Figure: Table too small to read**
-<\center>
+</center>
   
 Notes cover:
 1. Medicine
@@ -69,13 +69,13 @@ Notes cover:
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-explainer.png" width="60%" height="60%">
 
 **Figure: Video explainer on front and about page**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-videos.png" width="60%" height="60%">
 
 **Figure: Video content**
-<\center>
+</center>
 
 ##### Live
 
@@ -83,31 +83,31 @@ Notes cover:
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live.png" width="60%" height="60%">
 
 **Figure: Pulsenotes live**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-2.png" width="60%" height="60%">
 
 **Figure: Medicine and surgery**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-3.png" width="60%" height="60%">
 
 **Figure: Breakdown of each day**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-4.png" width="60%" height="60%">
 
 **Figure: Few external speakers**
-<\center>
+</center>
   
 <center>
 <img src="https://github.com/mhvbyrne/FM/blob/master/business/business-plan/figures/pulsenotes-live-5.png" width="60%" height="60%">
 
 **Figure: Animated google maps at bottom of page**
-<\center>
+</center>
 
 ---
 #### Technology
