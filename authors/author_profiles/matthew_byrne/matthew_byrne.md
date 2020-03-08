@@ -1,6 +1,6 @@
 ---
 Name: Matthew Byrne
-Date: 2018-06-24
+Date: 2020-03-08
 
 Email address: mhvbyrne@doctors.org.uk
 Alternative email address: mhvbyrne@gmail.com
@@ -10,11 +10,13 @@ Institution name: Addenbrooke's Hospital
 Institution address: Hills Rd, Cambridge CB2 0QQ, UK
 Institution postcode: CB2 0QQ
 
-Degree qualifications: MBBS MRes
-Grade: Academic Foundation Year Two Doctor
+Degree qualifications: MBBS MRes AFHEA
+Grade: Academic Clinical Fellow
 
-Profile picture: https://github.com/mhvbyrne/FM/blob/master/authors/author_profiles/matthew_byrne/matthew_byrne_profile_picture.jpg
-Bio: Matthew is the founder of **focus**|medicine. He was inspired to set it up because he felt current educational resources weren't up to scratch. He is an Academic Foundation Doctor in Cambridge who has an interest in education, academic surgery and entrepreneurship. He graduate MBBS with Merit (top 10% in finals) and MRes with Distinction from Newcastle University, receiving over 20 prizes, grants, and bursaries. Matthew has acted as a trustee for two national charities and has created a national medical journal for students, founded a national organ donation campaign, and cofounded a research collaborative and hand gel prototype. In the future Matthew aims to complete a PhD and to pursue a career as an Academic Surgeon.
+Profile picture: "/matthew_byrne_profile_picture.jpg"
+Bio: I am the founder of **focus**|medicine. I was inspired to set this up because I felt current educational resources weren't up to scratch. I am an Academic Clinical Fellow in Oxford and I also completed an Academic Foundation Programme in Surgery in Cambridge, as well as a year out of programme as an Anatomy Demonstrator for Cambridge University. I am particularly interested in academic surgery and entrepreneurship, but I have been surprised by how much I have enjoyed teaching and that was part of the inspiration for setting up this resource.
+
+I graduated in the top 10% of my year and was lucky enough to receive a number of prizes along the way. I also love volunteering and with some friends I started an organ donation education charity called [We Are Donors](https://www.wearedonors.org) as well as a [medical student research journal](https://journal.nsamr.ac.uk). In the future, I hope to complete a PhD and to pursue a career as an Academic Surgeon.
 
 Contractual agreement signed?: Yes
 
