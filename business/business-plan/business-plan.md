@@ -14,7 +14,35 @@
 * £2,250,000 per year.
 
 There are a number of competitions already in this field:
-* Pulsenotes
+* Pulsenotes http://www.pulsenotes.com/
+* Podmedics https://podmedics.com/
+* Passmedicine https://www.passmedicine.com/
+* PasTest www.pastest.com/
+* Geeky medics https://geekymedics.com
+* One examination https://www.onexamination.com
+* Becoming a Dr www.becomingadr.co.uk
+* Confidence https://confidence.ac/
+* Oscepass www.oscepass.com/
+* Medics Academy https://www.medics.academy/
+* Almost a doctor https://almostadoctor.co.uk/
+* Oscestop http://oscestop.com/
+* The Unofficial Guide to Medicine https://unofficialguidetomedicine.com
+* Osce-Aid m.osce-aid.co.uk/
+
+
+
+
+(Based on a google search in incognito mode performed 4/3/19 for: medical revision, in the order of the resources)
+
+Too little traffic to analyse associated search terms using google trends
+Search terms:
+* Medicine revision
+* Osce revision
+* Medical revision
+* Objective structured clinical examination
+
+
+
 
 ---
 ## Pulsenotes
