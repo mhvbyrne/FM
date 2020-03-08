@@ -17,9 +17,9 @@ Degree qualifications: MBBS MRes AFHEA
 Grade: Academic Clinical Fellow
 
 Profile picture: ../matthew_byrne_profile_picture.jpg
-Bio: I am the founder of **focus**|medicine. I was inspired to set this up because I felt current educational resources weren't up to scratch. I am an Academic Clinical Fellow in Oxford and I also completed an Academic Foundation Programme in Surgery in Cambridge, as well as a year out of programme as an Anatomy Demonstrator for Cambridge University. I am particularly interested in academic surgery and entrepreneurship, but I have been surprised by how much I have enjoyed teaching and that was part of the inspiration for setting up this resource.
+Bio: "I am the founder of **focus**|medicine. I was inspired to set this up because I felt current educational resources weren't up to scratch. I am an Academic Clinical Fellow in Oxford and I also completed an Academic Foundation Programme in Surgery in Cambridge, as well as a year out of programme as an Anatomy Demonstrator for Cambridge University. I am particularly interested in academic surgery and entrepreneurship, but I have been surprised by how much I have enjoyed teaching and that was part of the inspiration for setting up this resource.
 
-I graduated in the top 10% of my year and was lucky enough to receive a number of prizes along the way. I also love volunteering and with some friends I started an organ donation education charity called [We Are Donors](https://www.wearedonors.org) as well as a [medical student research journal](https://journal.nsamr.ac.uk). In the future, I hope to complete a PhD and to pursue a career as an Academic Surgeon.
+I graduated in the top 10% of my year and was lucky enough to receive some prizes along the way. I'm also passionate about volunteering and with some friends I started an organ donation education charity called [We Are Donors](https://www.wearedonors.org) as well as a [medical student research journal](https://journal.nsamr.ac.uk). In the future, I hope to complete a PhD and to pursue a career as an Academic Surgeon."
 
 Contractual agreement signed?: Yes
 
