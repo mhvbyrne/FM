@@ -60,6 +60,8 @@ The respiratory examination is very common station during clinical examinations.
 - Oxygen - COPD, interstilial lung disease
 - Inhalers/nebulisers - COPD, asthma
 - Sputum pot - note colour of sputum
+- Peak flow meters - asthma
+- Medications - steroids, antibiotics - COPD, asthma
 
 ### Patient
 - Age
@@ -108,7 +110,7 @@ The respiratory examination is very common station during clinical examinations.
 - Pulse - rate, rhythm - over 15 second period and multiply by four. Make sure to remember this for your summary!
   - Bounding - CO2 retention
   - Paradoxical - you can auscultate a heartbeat but cannot palpate the beat at the wrist - respiratory distress
-- Painful swelling of wrists - may indicate squamous cell carcinoma of lung
+- Painful swelling of wrists - may indicate squamous cell carcinoma of lung (HPOA)
 
 ### Arm
 - Blood pressure
@@ -197,7 +199,7 @@ Ask the patient to cross their arms to move the scapulae out of the way.
 
 ## Legs
 - Rash - erythema nodosum
-- Pedal oedema
+- Pedal oedema - cor pulmonale, right sided heart failure
 
 ## Finish
 
@@ -210,6 +212,7 @@ To finish I would also like to perform the following:
 - **Bedside** - Oxygen saturations, blood pressure, peak expiratory flow rate.
 - **Bloods** - Arterial blood gas (if low saturations)
 - **Imaging** - Chest X ray
+- **Special tests** - Spirometry (if COPD)
 - **Microbiology** - Sputum culture
 
 ## Summary
