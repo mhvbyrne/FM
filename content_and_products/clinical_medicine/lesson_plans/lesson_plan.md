@@ -5,6 +5,8 @@ output:
 ---
 # Lesson Plan
 
+This is a lesson plan for a respiratory examination in a small group setting (2-6 students)
+
 ## Preparation
 
 - Notify everyone in advance of time and place
