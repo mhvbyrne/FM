@@ -2,11 +2,11 @@
 
 ## Introduction
 
-- [] Introduces self
-- [] Patient details checked
-- [] Explanation given
-- [] Consent obtained
-- [] Checks for any questions
+[] Introduces self
+[] Patient details checked
+[] Explanation given
+[] Consent obtained
+[] Checks for any questions
 
 ## History of presenting complaint
 
