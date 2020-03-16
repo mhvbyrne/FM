@@ -1,44 +1,73 @@
 # ... History Markscheme
 
-1. Introduction - Introduces self
-1. Introduction - Patient details checked
-1. Introduction - Explanation given
-1. Introduction - Consent obtained
-1. Introduction - Checks for any questions
-1. History of presenting complaint - Starts with open question
-1. History of presenting complaint - Site
-1. History of presenting complaint - Onset
-1. History of presenting complaint - Character
-1. History of presenting complaint - Radiation
-1. History of presenting complaint - Associated symptoms
-1. History of presenting complaint - Timing
-1. History of presenting complaint - Symptom exacerbating/relieving factors
-1. History of presenting complaint - Symptom severity
-1. History of presenting complaint - Cardinals
-1. History of presenting complaint - Risk factors
-1. History of presenting complaint - Red flags
-1. Systems enquiry - general
-1. Systems enquiry - specific
-1. Ideas
-1. Concerns
-1. Expectations
-1. Past medical history - general
-1. Past medical history - specific
-1. Past surgical history
-1. Allergies
-1. Drug history
-1. Family history
-1. Social history - occupation
-1. Social history - smoking
-1. Social history - alcohol
-1. Social history - home/activities of daily living
-1. Thanks patient
-1. Summarising
-1. Signposing
-1. Differential
-1. Overall assessment
-  1. Rapport
-  1. Fluency
-  1. Empathy
-  1. Active listening
-1. Patient assessment
+## Introduction
+
+- [] Introduces self
+- [] Patient details checked
+- [] Explanation given
+- [] Consent obtained
+- [] Checks for any questions
+
+## History of presenting complaint
+
+- [] Starts with open question
+- [] Site
+- [] Onset
+- [] Character
+- [] Radiation
+- [] Associated symptoms
+- [] Timing
+- [] Symptom exacerbating/relieving factors
+- [] Symptom severity
+- [] Cardinal symptoms
+- [] Risk factors
+- [] Red flags
+
+## Systems enquiry
+
+- [] general
+- [] specific
+
+## ICE
+
+- [] Ideas
+- [] Concerns
+- [] Expectations
+
+## Past medical history
+
+- [] general
+- [] specific
+- [] Past surgical history
+- [] Allergies
+
+## Past medical history
+
+- [] past medical history
+
+## Drug history
+- [] Drug history
+
+## Family history
+- [] Family history
+
+## Social history
+- [] Occupation
+- [] Smoking
+- [] Alcohol
+- [] Home/activities of daily living
+
+## Closing
+- [] Thanks patient
+- [] Summarising
+- [] Signposing
+- [] Differential
+
+## Overall assessment
+- [] Rapport
+- [] Fluency
+- [] Empathy
+- [] Active listening
+
+## Overall assessment
+- [] Patient assessment
