@@ -64,8 +64,6 @@ The respiratory examination is very common station during clinical examinations.
 - Medications - steroids, antibiotics - COPD, asthma
 
 ### Patient
-- Unwell or in pain?
-  - Signs of respiratory disress?
 - Age
   - Young - asthma, cystic fibrosis
   - Old - pneumonia, cancer, COPD, interstitial lung disease
@@ -76,6 +74,7 @@ The respiratory examination is very common station during clinical examinations.
 - Added sounds - cough, wheeze, hoarseness, stridor, stertor, agonal
   - Stertor - snoring sounds caused by partial upper airway obstruction
   - Agonal - laboured gasping, emergency sign - extreme hypoxia
+- Unwell or in pain? Signs of respiratory disress? - acute/acute on chronic problem
 
 ## Extremities
 
@@ -103,9 +102,6 @@ The respiratory examination is very common station during clinical examinations.
 
 #### Inspection
 - Respiratory rate - normal between 12-20 breaths/minute
-  - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
-  - Look at the patient's sternum and count breaths taken over a 15 second period.
-  - Multiply by four to obtain the total number over one minute. Make sure to remember this for your summary!
 
 #### Palpation
 - Pulse - rate, rhythm - over 15 second period and multiply by four. Make sure to remember this for your summary!
@@ -135,10 +131,6 @@ The respiratory examination is very common station during clinical examinations.
 
 #### Inspection
 - JVP - cor pulmonale
-  - 45 degrees
-  - Turn head to left
-  - Look at sternocleidomastoid
-  - Measure number of centimeters above sternal notch
 
 #### Palpation
 Warn patient that you are going to touch their "wind pipe" and it may be uncomfortable.
@@ -240,6 +232,17 @@ This is a 'age' 'sex', on inspection there was... on palpation there was... on p
   - Blood stained - infective causes, cancer, pulmonary embolism
   - Frothy, pink - heart failure
   - Large volume - bronchiectasis
+
+### Respiratory rate
+  - Complete while taking pulse, do not mention to the patient that you are checking their respiratory rate otherwise they will become concious of their breathing and you will not obtain an accurate rate.
+  - Look at the patient's sternum and count breaths taken over a 15 second period.
+  - Multiply by four to obtain the total number over one minute. Make sure to remember this for your summary!
+  
+### JVP
+  - 45 degrees
+  - Turn head to left
+  - Look at sternocleidomastoid
+  - Measure number of centimeters above sternal notch
 
 ### Chest wall expansion
 
