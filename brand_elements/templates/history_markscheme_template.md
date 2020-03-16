@@ -25,8 +25,8 @@
 
 ## Systems enquiry
 
-- [ ] general
-- [ ] specific
+- [ ] General
+- [ ] Specific
 
 ## ICE
 
@@ -36,8 +36,8 @@
 
 ## Past medical history
 
-- [ ] general
-- [ ] specific
+- [ ] General
+- [ ] Specific
 - [ ] Past surgical history
 - [ ] Allergies
 
