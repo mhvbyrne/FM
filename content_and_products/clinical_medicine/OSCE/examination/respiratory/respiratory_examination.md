@@ -64,6 +64,8 @@ The respiratory examination is very common station during clinical examinations.
 - Medications - steroids, antibiotics - COPD, asthma
 
 ### Patient
+- Unwell or in pain?
+  - Signs of respiratory disress?
 - Age
   - Young - asthma, cystic fibrosis
   - Old - pneumonia, cancer, COPD, interstitial lung disease
@@ -71,7 +73,6 @@ The respiratory examination is very common station during clinical examinations.
 - Pallor - anaemia of chronic disease
 - Cachexic - chronic disease - cancer, COPD, cystic fibrosis
 - Cushingoid - steroids - asthma, COPD
-- Signs of respiratory disress?
 - Added sounds - cough, wheeze, hoarseness, stridor, stertor, agonal
   - Stertor - snoring sounds caused by partial upper airway obstruction
   - Agonal - laboured gasping, emergency sign - extreme hypoxia
@@ -208,8 +209,8 @@ Thank patient and ask if they have any questions
 ## Extra tests
 
 To finish I would also like to perform the following:
-- **Examination** - Cardiovascular (if indicated)
-- **Bedside** - Oxygen saturations, blood pressure, peak expiratory flow rate.
+- **Examination** - Cardiovascular if indicated, axillary lymph nodes if cancer, liver edge if COPD
+- **Bedside** - Oxygen saturations, blood pressure, temperature, peak expiratory flow rate.
 - **Bloods** - Arterial blood gas (if low saturations)
 - **Imaging** - Chest X ray
 - **Special tests** - Spirometry (if COPD)
@@ -250,17 +251,20 @@ Ask the patient to repeat 99 each time you place your hand (tactile resonance) o
 
 ### Added sounds on auscultation
 - **Crepitations** - sounds like crackles, and can be fine or coarse
+  - If crepitations elicited ask the patient to cough - do they clear?
 - **Wheeze** - expiratory noise (mainly)
 - **Stridor** - inspiratory noise
 - **Pleuritic Rub** - sounds like walking on snow
-- **Bronchial Breathing** - sounds like wind moving through a tube, louder during expiration
+- **Bronchial Breathing** - hollow sounds like wind moving through a tube, louder during expiration - consolidation, fibrosis
 
-https://www.medicaleducationleeds.com/paces/respiratory-examination/ ///
-
-Crackles? Ask the patient to cough ///
+Some more information about added sounds can be found here: https://www.medicaleducationleeds.com/paces/respiratory-examination/ ///
 
 ### Signs of respiratory distress
 Not speaking in full sentences, tachypnoea, tripod position, using accessory muscles, intercostal recession, pursed lips, nasal flaring, tracheal tug (thyroid cartilage being pulled to the sternal notch during inspiration), pulsus paradoxus, paradoxical respiration (diaphragm rises with inspiration).
 
-### Breathing patterns ///
-https://www.medicaleducationleeds.com/paces/respiratory-examination/
+### Breathing patterns
+- Hyperventilation (RR>20)
+  - Can lead to respiratory alkalosis, which can cause hypocalcaemia and perioral paraesthesia ± muscle spasms.
+- Hypoventilation (RR<12) - opiate overdose
+- Kussmaul breathing - deep sighing breathing, due to metabolic acidosis - DKA, renal failure.
+- Cheyne-Stokes breathing - cycles of deep then shallow breathing with periods of apnoea - brainstem lesions or compression - stroke, raised ICP.
