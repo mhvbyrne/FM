@@ -27,6 +27,7 @@ Palpates:
 - [ ] Wrists for pain and swelling
 
 Measures:
+
 - [ ] RR
 - [ ] HR
 - [ ] Says would measure BP
@@ -64,7 +65,7 @@ Percusses:
 - [ ] Clavicles
 - [ ] Two other areas
 - [ ] Axillae
-- [ ] Compares Left to Right
+- [ ] Compares left to right
 
 Auscultates:
 
